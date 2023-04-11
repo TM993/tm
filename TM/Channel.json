@@ -1,0 +1,105 @@
+{
+
+    "Channel":[
+    
+   
+    
+    {
+      "name":"Dubai Sports 1",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.pinimg.com/originals/bb/b0/36/bbb0362748b344227dcc3683769fc53b.png",
+    
+      "link":"https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"
+    
+    },
+    {
+      "name":"Dubai Sports 2",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.ibb.co/LknY07T/dubai2.png",
+    
+      "link":"http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+    
+    },
+    
+    {
+      "name":"Dubai Sports 3",
+    
+      "catagory":"sport",
+    
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzsJHA0Vi7sLFeSRYF2ze9c50qvmv4V1-RAbC9a0w_Y-F9LcxeovZz1WJuKrBB9PDvBO0&usqp=CAU",
+    
+      "link":"http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
+    
+    },
+    
+  
+    {
+      "name":"SONY AATH",
+      
+      "catagory":"movie",
+    
+      "image":"http://www.indianbroadcastingworld.com/wp-content/uploads/2022/12/Sony-AAth.jpg",
+    
+      "link":"https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8"
+    
+    },
+    
+    {
+      "name":"SONY Marathi",
+      
+      "catagory":"other",
+    
+      "image":"https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_webp/https://www.bizasialive.com/wp-content/uploads/2018/07/sonymarathi001.jpg",
+    
+      "link":"https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8"
+    
+    },
+    
+    {
+      "name":"SONY YAY",
+      
+      "catagory":"cartoon",
+    
+      "image":"https://www.bizasialive.com/wp-content/uploads/2017/04/sonyyay001.jpg",
+    
+      "link":"https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8"
+    
+    },
+    
+    {
+      "name":"MRTV-4",
+    
+      "catagory":"mm",
+    
+      "image":"https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4_400x400.jpg",
+    
+      "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+    
+    },
+    
+   
+    
+    {
+      "name":"Thai: ALTV (1080P)",
+    
+      "catagory":"asia",
+    
+      "image":"https://thaipbs-world.s3.ap-southeast-1.amazonaws.com/thaipbsworld/wp-content/uploads/2020/11/13191100/maxresdefault.jpg",
+    
+      "link":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+    
+    }
+    
+    
+    
+    
+    ]
+    
+    }
+    
+    
+    

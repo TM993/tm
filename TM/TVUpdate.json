@@ -1,0 +1,56 @@
+{
+
+  
+    "update": [
+    
+        
+    {
+          
+    
+    "name": "TMovie TV Update",   
+    
+    "versionCode": "1",
+         
+    "description": "TMovie TV version 1.0 Update ထွက်ရှိလာပါပြီခင်ဗျာ Playstore တွင်ဒေါင်းယူနိုင်ပါပြီ ။ ",
+         
+    "playstoreDownload": "https://play.google.com/store/apps/details?id=com.apg.tmovie",
+           
+    "adbannerMain":"https://i.postimg.cc/xdVtyqd9/1681171187947.jpg",
+          
+    "adbannerPlayer":"",     
+    "adText" : "",
+    "extraLive":"true",
+    "extraHilight":"true"
+    
+    }
+    
+    ],
+    
+    
+    "Premium":[
+    
+    
+    {
+    "userName":"MyAdmin",
+    "deviceId":"bd117c429b1fb8bb",
+    "plan":"true",
+    "message":"လူကြီးမင်း Premium သက်တမ်းကုန်ဆုံးပါတော့မည်။ သက်တမ်းတိုးရန် အောက်ပါ Code ၁၂လုံးအားဓာတ်ပုံရိုက် ကာ viber -09797612917သို့ ဆက်သွယ် သက်တမ်းတိုးပါ။ ",
+    "startDate":"12.3.2023",
+    "endDate":"12.3.2050"
+    
+    },
+    
+    {
+    "userName":"My Home",
+    "deviceId":"416023f4b3aedf0f",
+    "plan":"true",
+    "message":"လူကြီးမင်း Premium သက်တမ်းကုန်ဆုံးပါတော့မည်။ သက်တမ်းတိုးရန် အောက်ပါ Code ၁၂လုံးအားဓာတ်ပုံရိုက် ကာ viber -09797612917သို့ ဆက်သွယ် သက်တမ်းတိုးပါ။",
+    "startDate":"12.3.2023",
+    "endDate":"12.3.2050"
+    
+    }
+    
+    
+       
+    ]
+    }
