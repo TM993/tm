@@ -280,7 +280,38 @@
       "image":"https://serving.photos.photobox.com/11946525f07a209a1f5b9045c9c5d14a0371400176e4b6a56a9ac378508e143454b2892c.jpg",
     
       "link":"http://iptvworld.nl:2095/live/hAyoxQ3u/mHsKjCKN/115512.chunklist.m3u8?mac=00:1a:79:b6:46:12"
+     },
+
+{
+  "name":"5Plus",
+    
+      "catagory":"mm",
+    
+      "image":"https://serving.photos.photobox.com/624514937887c0eeb792937d7b5cf010307eaffedc78c4b10dc9a489b06fed149671d2be.jpg",
+    
+      "link":"http://183.89.246.119:8881/play/a07w/index.m3u8"
+     },
+
+{
+  "name":"Channel 7",
+    
+      "catagory":"mm",
+    
+      "image":"https://serving.photos.photobox.com/addr1qy0930a4nw93aylh099w3vdalrp9u7cdfz2h9nmfmtajj6g7tzlmtxutr6flw722azcmm7xzteas6jy4wt8knkhm995sjtyufd.jpg",
+    
+      "link":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941744&extension=ts&play_token=EsigBOh3mS"
+     },
+	    
+{
+  "name":"Mahar",
+    
+      "catagory":"mm",
+    
+      "image":"https://serving.photos.photobox.com/96920991e6bef9193c873f735bb04e72f1316215daac7f14c39ceccda610abe3426b46fe.jpg",
+    
+      "link":"https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
      }
+	    
     ]
 	
     }
