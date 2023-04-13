@@ -612,7 +612,7 @@
      },
 
 	    
-	    	    	    	    {
+{
   "name":"Pogo",
     
       "catagory":"cartoon",
@@ -620,6 +620,40 @@
       "image":"https://logosave.com/images/large/21/Pogo-1-logo.png",
     
       "link":"http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/147460"
+     },
+	    
+	    
+	    {
+  "name":"Channel K",
+    
+      "catagory":"mm",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/en/4/4d/Channel_K_TV_Channel_Logo.jpg",
+    
+      "link":"http://183.89.246.119:8881/play/a080/index.m3u8"
+     },
+	    
+	    
+	    
+	    	    {
+  "name":"Channel 9",
+    
+      "catagory":"mm",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
+    
+      "link":"http://183.89.246.119:8881/play/a07y/index.m3u8"
+     },
+	    
+	    
+	    	    	    {
+  "name":"MRTV Enteraiment",
+    
+      "catagory":"mm",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/en/0/0b/Channel_ME_Logo.jpg",
+    
+      "link":"http://183.89.246.119:8881/play/a07t/index.m3u8"
      }
 	    
 	    
