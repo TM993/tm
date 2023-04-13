@@ -654,6 +654,60 @@
       "image":"https://upload.wikimedia.org/wikipedia/en/0/0b/Channel_ME_Logo.jpg",
     
       "link":"http://183.89.246.119:8881/play/a07t/index.m3u8"
+     },
+	    
+	    
+	    	    	    	    {
+  "name":"Sony Ten 1",
+    
+      "catagory":"asia",
+    
+      "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",
+    
+      "link":"https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+     },
+	    
+	    {
+  "name":"Sony Ten 2",
+    
+      "catagory":"asia",
+    
+      "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",
+    
+      "link":"https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
+     },
+	    
+	    
+	    	        	    	    	    {
+  "name":"Sony Ten 3",
+    
+      "catagory":"asia",
+    
+      "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",
+    
+      "link":"https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8"
+     },
+	    
+	    
+	    	    	        	    	    	    {
+  "name":"Sony Ten 4",
+    
+      "catagory":"asia",
+    
+      "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",
+    
+      "link":"https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8"
+     },
+	    
+	    
+	        	    	        	    	    	    {
+  "name":"Sony Ten 5",
+    
+      "catagory":"asia",
+    
+      "image":"https://medianet.mv/media/channel/235x0-icon.png",
+    
+      "link":"https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8"
      }
 	    
 	    
