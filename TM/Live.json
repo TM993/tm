@@ -7,30 +7,10 @@
    
    
    
-   {
-   "id": "2266",
-   "title": "Manchester City Vs Bayern Munchen",
-   "img": "https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
-   "img1": "https://img.thesports.com/football/team/4c7e35b5134ebf4d92bdf0e88519e077.png",
-   "time": "12.4.2023 (1:30 PM)",
-   "url": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8,https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8,https://sports01.livnvess.com/live/stream-167414.flv?txSecret=a6260b5d13902306a426ed43e9441a4d&txTime=643600e9,https://sports01.livnvess.com/live/stream-226699.flv?txSecret=e1688fb50920325bd4277fb0e584c2df&txTime=643600e9,https://sports01.livnvess.com/live/stream-168740.flv?txSecret=b15827136ae91825aaa12486ebb8332c&txTime=643600ad,https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8,https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8,https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8,https://obevcimanyd179314182.thapcam.link/live/may106FHD/chunklist.m3u8",
-   "live":"1",
-   "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-   "league": "UEFA Chanpion League"
-   },
+
    
    
-   {
-   "id": "2266",
-   "title": "Banfica Vs Inter Milan",
-   "img": "https://img.thesports.com/football/team/78360445c12fa3fdc8b489486fff4eb6.png",
-   "img1": "https://img.thesports.com/football/team/aa2245702c40f77799a5ad4b119581a8.png",
-   "time": "12.4.2023 (1:30 PM)",
-   "url": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8,https://sports01.livnvess.com/live/stream-118582.flv?txSecret=98d3be67e36baab9f63fa643ef23944a&txTime=64360125,https://sports01.livnvess.com/live/stream-115493.flv?txSecret=ff345c64ae58a5b13c3006b9b5704854&txTime=64360125,https://sports01.livnvess.com/live/stream-214855.flv?txSecret=e9143ddd87ce9322bb83d632ac388606&txTime=64360125,https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8,https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8",
-   "live":"1",
-   "type": "SD,HD1,HD2,HD3,HD4,HD5,FHD",
-   "league": "UEFA Chanpion League"
-   },
+
 
 {
    "id": "2266",
@@ -54,19 +34,7 @@
       "live":"0",
       "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
       "league": "Premier League"
-      },
-        
-           {
-   "id": "2266",
-   "title": "Manchester United Vs Sevilla",
-   "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-   "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-   "time": "14.4.2023 (1:30 AM)",
-   "url": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/may175FHD/chunklist.m3u8",
-   "live":"1",
-   "type": "SD,HD1,HD2,HD3,HD4,HD5,FHD",
-   "league": "UEFA Chanpion League"
-   }
+      }
    
    
    
