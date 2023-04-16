@@ -2,77 +2,29 @@
     "hls":[
    
    
-   
-   
-   
-   
-   
-
-   
-   
-
-
-{
+   {
    "id": "2266",
-   "title": "West Ham United Vs Arsenal",
-   "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-   "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-   "time": "16.4.2023 (7:30 PM)",
-   "url": "https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8,https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/may181FHD/chunklist.m3u8,https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
-   "live":"1",
+   "title": "Valencia Vs Sevilla",
+   "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+   "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+   "time": "17.4.2023 (1:30 AM)",
+   "url": "",
+   "live":"0",
    "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-   "league": "Premier League"
+   "league": "Laliga"
    },
 
    {
       "id": "2266",
-      "title": "Nottingham Forest Vs Manchester United",
-      "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-      "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-      "time": "16.4.2023 (10:00 PM)",
-      "url": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8,https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8,https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/may182FHD/chunklist.m3u8,",
-      "live":"0",
+      "title": "Roma Vs Udinese",
+      "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+      "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+      "time": "17.4.2023 (1:15 AM)",
+      "url": "https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8,https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8,https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8",
+      "live":"1",
       "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-      "league": "Premier League"
+      "league": "Laliga"
       },
-        
-        
-        {
-         "id": "2266",
-         "title": "Getafe Vs Barcelona",
-         "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-         "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-         "time": "16.4.2023 (8:45 PM)",
-         "url": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8,https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8,https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8",
-         "live":"1",
-         "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-         "league": "Spain LaLiga"
-         },
-
-         {
-            "id": "2266",
-            "title": "Atletico Madrid Vs Almeria",
-            "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-            "time": "16.4.2023 (11:00 PM)",
-            "url": "",
-            "live":"0",
-            "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-            "league": "Spain LaLiga"
-            },
-
-
-            {
-               "id": "2266",
-               "title": "Sassuolo Vs Juventus",
-               "img": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-               "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-               "time": "16.4.2023 (10:30 PM)",
-               "url": "",
-               "live":"0",
-               "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-               "league": "Italy serie A"
-               }
    
    
    
