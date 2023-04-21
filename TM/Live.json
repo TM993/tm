@@ -2,53 +2,7 @@
     "hls":[
    
    
-{
-  "id": "2266",
-  "title": "Roma Vs Feyenoord",
-  "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
-  "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png",
-  "time": "21.4.2023 (1:30 AM)",
-  "url": "",
-  "live":"0",
-  "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-  "league": "Europa League"
-  },
-
-  {
-    "id": "2266",
-    "title": "Sevilla Vs Manchester United",
-    "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-    "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-    "time": "21.4.2023 (1:30 AM)",
-    "url": "",
-    "live":"0",
-    "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-    "league": "Europa League"
-    },
-
-    {
-      "id": "2266",
-      "title": "Sporting CP Vs Juventus",
-      "img":  "https://images.fotmob.com/image_resources/logo/teamlogo/9768.png",
-      "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
-      "time": "21.4.2023 (1:30 AM)",
-      "url": "",
-      "live":"0",
-      "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-      "league": "Europa League"
-      },
-
-      {
-        "id": "2266",
-        "title": "Union St.Gilloise Vs Bayer Leverkusen",
-        "img":  "https://images.fotmob.com/image_resources/logo/teamlogo/7978.png",
-        "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
-        "time": "21.4.2023 (1:30 AM)",
-        "url": "",
-        "live":"0",
-        "type": "SD1,SD2,HD1,HD2,HD3,HD4,HD5,HD6,HD7,FHD1,FHD2",
-        "league": "Europa League"
-        }   
+ 
  
 
 
