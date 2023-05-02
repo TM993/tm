@@ -13,6 +13,7 @@
       "go1": "1",
       "go2": "1",
       "type": "0",
+      "premium":"true",
       "league": "Champion League"
       },
 
@@ -27,6 +28,7 @@
             "go1": "0",
             "go2": "2",
             "type": "0",
+            "premium":"true",
             "league": "Champion League"
             },
   
@@ -40,6 +42,7 @@
   "go1": "3",
   "go2": "3",
   "type": "0",
+  "premium":"true",
   "league": "Champion League"
   },
 
@@ -53,6 +56,7 @@
     "go1": "1",
     "go2": "1",
     "type": "0",
+    "premium":"true",
     "league": "Champion League"
     }
 
