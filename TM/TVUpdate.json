@@ -13,9 +13,9 @@
          
     "description": "TMovie TV version 1.0 Update ထွက်ရှိလာပါပြီခင်ဗျာ Playstore တွင်ဒေါင်းယူနိုင်ပါပြီ ။ ",
          
-    "playstoreDownload": "https://play.google.com/store/apps/details?id=com.apg.tmovie",
+    "playstoreDownload": "",
            
-    "adbannerMain":"https://i.postimg.cc/xdVtyqd9/1681171187947.jpg",
+    "adbannerMain":"https://i.postimg.cc/zDdhwg9j/TMovie-01.jpg",
           
     "adbannerPlayer":"",     
     "adText" : "",
@@ -31,9 +31,9 @@
 
       "description": "Please Update Version 1.0",
 
-      "directDownload": "https://play.google.com/store/apps/details?id=com.tm.sport",
+      "directDownload": "",
 
-      "playstoreDownload": "https://play.google.com/store/apps/details?id=com.tm.sport",
+      "playstoreDownload": "",
 
        "externalAdLink":"https://play.google.com/store/apps/details?id=com.tm.sport",
 
