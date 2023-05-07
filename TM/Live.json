@@ -6,29 +6,30 @@
  
 {
 "id": "2266",
-"title": "Barcelona Vs Osasuna",
-"img": "https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-"img1": "https://img.thesports.com/football/team/c2050b940076df70b2ad0a6103c50df4.png",
-"time": "3.5.2023 (12:00 AM)",
-"url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8,https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+"title": "Atalanta Vs Juventus",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"time": "7.5.2023 (5:00 PM)",
+"url": "http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/22058,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/11635,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/279631,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/1486",
 "live":"1",
-"type": "SD,HD",
-"premium":"true,false",
-"league": "LaLiga"
+"type": "Sever1,Sever2,Sever3,Sever4",
+"premium":"true",
+"league": "Serie A"
 },
         
          
 {
 "id": "2266",
-"title": "BB Vs OO",
-"img": "https://img.thesports.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-"img1": "https://img.thesports.com/football/team/c2050b940076df70b2ad0a6103c50df4.png",
-"time": "3.5.2023 (12:00 AM)",
-"url": "",
-"live":"0",
-"type": "",
-"premium":"true",
-"league": "LaLiga"
+"title": "Newcastle United Vs Arsenal",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"time": "7.5.2023 (10:00 PM)",
+"url": "http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/109,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/110,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/11642,
+http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/16619,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/157557,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/263,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/6275",
+"live":"1",
+"type": "Sever1,Sever2,Sever3,Sever4,Sever5,Sever6,Sever7",
+"premium":"true,ture,true,true,true,true,true",
+"league": "Premier League"
 }
 
     
