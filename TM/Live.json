@@ -6,54 +6,15 @@
  
 {
 "id": "2266",
-"title": "Fulham Vs Leicester City",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-"time": "8.5.2023 (8:30 PM)",
-"url": "http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/11642,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/110,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/109,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/162591",
+"title": "Real Madrid Vs Manchester City",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+"time": "10.5.2023 (1:30 AM)",
+"url": "http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/110,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/109,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/1937,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/11642,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/1499",
 "live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4",
+"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
-"league": "Premier League"
-},
-
-{
-"id": "2266",
-"title": "Brighton & Hove Albion Vs Everton",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-"time": "8.5.2023 (11:00 PM)",
-"url": "http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/11642,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/110,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/109,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/162591",
-"live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4",
-"premium":"true",
-"league": "Premier League"
-},
-
-{
-"id": "2266",
-"title": "Nottingham Forest Vs Southampton",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-"time": "9.5.2023 (1:30 AM)",
-"url": "http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/11642,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/110,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/109,http://gamsgo.cyou:8080/googleiptvex/U7J72WOwRHvQ/162591",
-"live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4",
-"premium":"true",
-"league": "Premier League"
-},
-        
-        {
-"id": "2266",
-"title": "Al Nassr FC Vs Al Khaleej",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/550433_small.png",
-"time": "8.5.2023 (10:00 AM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?edge_slice=true&user_session_id=1866055305873372cb88001a066ae991&sub_m3u8=true&auth_key=1683581736-0-0-f4089b8f5c0d7fae31fbac00fe523d1e,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?user_session_id=63d65fa5fae1cb94f432a7474d1591c1&auth_key=1683581736-0-0-99ced0a1cae1d6700e717e34fcf10d30&sub_m3u8=true&edge_slice=true",
-"live":"1",
-"type": "Sever1,Sever2",
-"premium":"true",
-"league": "Saudi ArabiaPremier League"
+"league": "Champions League - Semi-Final"
 }
 
     
