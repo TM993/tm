@@ -4,61 +4,18 @@
 
 
   
-  {
+   {
     "id": "2266",
-    "title": "Fulham Vs Leicester City",
-    "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-    "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-    "time": "8.5.2023 (8:30 PM)",
-    "url": "https://opj.topravideo.com/UpFiles/2023/5/8/42/255057/360p.m3u8",
-    "go1": "5",
-    "go2": "3",
-    "type": "1",
-    "premium":"true",
-    "league": "Premier League"
-    },
-  
-  
-     {
-    "id": "2266",
-    "title": "Brighton & Hove Albion Vs Everton",
-    "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-    "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-    "time": "9.5.2023 (8:30 PM)",
-    "url": "https://opj.topravideo.com/UpFiles/2023/5/8/51/255092/0.m3u8",
-    "go1": "1",
-    "go2": "5",
-    "type": "1",
-    "premium":"true",
-    "league": "Premier League"
-    },
-
-     {
-    "id": "2266",
-    "title": "Al Nassr FC Vs Al Khaleej",
-    "img": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-    "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/550433_small.png",
-    "time": "8.5.2023 (10:30 PM)",
-    "url": "https://www.youtube.com/watch?v=sbcxQaL3RU0",
-    "go1": "1",
-    "go2": "1",
-    "type": "1",
-    "premium":"true",
-    "league": "Premier League"
-    },
-  
-  {
-    "id": "2266",
-    "title": "Real Madrid Vs Manchester City",
-    "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-    "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "title": "Real Madridr Vs Manchester City",
+    "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+    "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
     "time": "10.5.2023 (1:30 AM)",
-    "url": "https://opj.topravideo.com/UpFiles/2023/5/9/42/255190/720p.m3u8",
+    "url": "https://opj.topravideo.com/UpFiles/2023/5/9/42/255190/360p.m3u8",
     "go1": "1",
     "go2": "1",
     "type": "1",
     "premium":"true",
-    "league": "champions league"
+    "league": "Champions League Final Stage Semi-Final"
     }
 
 
