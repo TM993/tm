@@ -10,8 +10,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "time": "13.5.2023 (1:30 AM)",
-"url": "",
-"live":"0",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991108_lhd.m3u8?sub_m3u8=true&auth_key=1683934836-0-0-34a4fdc230fcfd4d255a53a62409902f&user_session_id=8173edf5eef1e3147ea6856713a1f1c4&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991108_lsd.m3u8?auth_key=1683934836-0-0-e467d7dd5364879009ac84939a5e52af&user_session_id=1aeac6629c7700a45306655ac4acf458&sub_m3u8=true&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?user_session_id=1732c77e1159dcc1913a783f439862a0&edge_slice=true&sub_m3u8=true&auth_key=1683934880-0-0-bbaba67edf2fee619a5553023cd56222,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?user_session_id=a5d37666ba0feb8122d250faa31d0923&edge_slice=true&sub_m3u8=true&auth_key=1683934880-0-0-fccd3d9dd415cc94843f58ef8738fe72,https://live5-slivertv.akamaized.net/hls/live/2015941/hls_streamer_us_central_0082/stream_mgtaw4x1hwy362x060knhm5dd_source/chunklist.m3u8",
+"live":"1",
 "type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
 "league": "Serie A Round 35"
@@ -23,9 +23,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
 "time": "13.5.2023 (1:30 AM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=3f907d536e9d57ea24090e06d1206069&txTime=645ecfa0,https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=3f907d536e9d57ea24090e06d1206069&txTime=645ecfa0,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lhd.m3u8?sub_m3u8=true&auth_key=1683935240-0-0-60c7e6115dae0f655eb8545586872129&user_session_id=da6604002015ea5b60e0e98d670fad7a&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?user_session_id=18352456e20090e7abb527549014defe&edge_slice=true&sub_m3u8=true&auth_key=1683935240-0-0-dd50a061d9d6f68ccf7e95022e306c02",
+"live":"1",
+"type": "Sever1,Sever2,Sever3,Sever4",
 "premium":"true",
 "league": "LaLiga Round 34"
 }
