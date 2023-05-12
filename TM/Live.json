@@ -6,28 +6,28 @@
  
 {
 "id": "2266",
-"title": "Juventus Vs Sevilla",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"time": "12.5.2023 (1:30 AM)",
-"url": "https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=ce80ff20ee780d0dd66aadd0bc5cd916&txTime=645d69f8,https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=1be2fed47542ff8882aee39a177c761e&txTime=645d6aac,https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683843979-0-0-af0d22e61ca858eca66a24d28092faf2&user_session_id=0b7d49fd796797946bcbe0bf9e2e162f,https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd_3.ts?vhost=pull.juqihuo.com&edge_slice=true,https://lin-gd-001-cf.slivcdn.com/out/v1/80891f4d48cc41bda7e62cc601fad8cd/master_8.m3u8?hdntl=exp=1683866206~acl=*~hmac=9e7c8ad52bfb3f825c0de1dbee1525f534b64c3f1c1fedcfbe179b4784603084&originpath=/linear/hls/pb/event/6WhVNGKTRXyu588zZv1Lkg/stream/2227049a-be27-4f44-af02-3e95e347aa55:SIN2/variant/ef7096701288e453b68d8a77d649b317/bandwidth/2752978.m3u8",
-"live":"1",
+"title": "Lazio Vs Lecce",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+"time": "13.5.2023 (1:30 AM)",
+"url": "",
+"live":"0",
 "type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
-"league": "Europa League Semi-final"
+"league": "Serie A Round 35"
 },
 
 {
 "id": "2266",
-"title": "Roma Vs Bayer Leverkusen",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"time": "12.5.2023 (1:30 AM)",
-"url": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?edge_slice=true&auth_key=1683844656-0-0-b7a0c5d3da633769d0a0da6cde9eb93f&user_session_id=813fcabce8e413c1b070ed9124e20de5&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683844656-0-0-e123784371ee9e8a77cf872f31aa8948&user_session_id=4b39036a0d58db0e802e97e9092f64dc,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1683844759-0-0-9f26de316ce72aa7ae44ef25431ad15e&edge_slice=true&sub_m3u8=true&user_session_id=175ee0760f256084b8220ad2393efc50,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1683844759-0-0-9f26de316ce72aa7ae44ef25431ad15e&edge_slice=true&sub_m3u8=true&user_session_id=175ee0760f256084b8220ad2393efc50,https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8",
-"live":"1",
+"title": "Mallorca Vs Bayer Cadiz",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+"time": "13.5.2023 (1:30 AM)",
+"url": "",
+"live":"0",
 "type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
-"league": "Europa League Semi-final"
+"league": "LaLiga Round 34"
 }
 
     
