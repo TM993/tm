@@ -131,15 +131,120 @@
     
       "image":"https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4_400x400.jpg",
     
-      "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+      "link":"http://bananatv.org:25461/bananatv/bananatv/5",
 	    	    
-       "premium":"true"
+       "premium":"false"
+    
+    },
+    
+{
+      "name":"Channel 7",
+    
+      "catagory":"mm",
+    
+      "image":"https://www.coolstreaming.us/img/ch/image93951629894.jpg",
+    
+      "link":"http://bananatv.org:25461/bananatv/bananatv/2",
+	    	    
+       "premium":"false"
+    
+    },
+	    
+	    
+  {
+      "name":"Channel Me",
+    
+      "catagory":"mm",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Channel_ME_Logo.jpg/220px-Channel_ME_Logo.jpg",
+    
+      "link":"http://bananatv.org:25461/bananatv/bananatv/238",
+	    	    
+       "premium":"false"
+    
+    },
+   
+	    
+	     {
+      "name":"Channel 9",
+    
+      "catagory":"mm",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
+    
+      "link":"http://bananatv.org:25461/bananatv/bananatv/999",
+	    	    
+       "premium":"false"
+    
+    },
+	    
+	    {
+      "name":"MNTV",
+    
+      "catagory":"mm",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/en/5/54/Myanmar_National_TV_Logo.jpg",
+    
+      "link":"http://bananatv.org:25461/bananatv/bananatv/4",
+	    	    
+       "premium":"false"
+    
+    },
+	    
+{
+      "name":"Fortune Tv",
+    
+      "catagory":"mm",
+    
+      "image":"https://static.wikia.nocookie.net/logopedia/images/c/c9/Fortune_TV.png/revision/latest?cb=20191211065309",
+    
+      "link":"http://bananatv.org:25461/bananatv/bananatv/998",
+	    	    
+       "premium":"false"
+    
+    },
+	    
+	    {
+      "name":"YTV",
+    
+      "catagory":"mm",
+    
+      "image":"https://static.wikia.nocookie.net/logopedia/images/2/2c/YTV_myanmar.png/revision/latest?cb=20191211065311",
+    
+      "link":"http://bananatv.org:25461/bananatv/bananatv/1000",
+	    	    
+       "premium":"false"
+    
+    },
+	    
+{
+      "name":"Channel K",
+    
+      "catagory":"mm",
+    
+      "image":"https://static.wikia.nocookie.net/logopedia/images/a/a8/ChannelK_Myanmar.png/revision/latest/scale-to-width-down/1200?cb=20191211065312",
+    
+      "link":"http://bananatv.org:25461/bananatv/bananatv/3",
+	    	    
+       "premium":"false"
+    
+    },
+	    
+	    {
+      "name":"Mahar",
+    
+      "catagory":"mm",
+    
+      "image":"https://mm.myanmartechpress.com/wp-content/uploads/2019/07/2-12.jpg",
+    
+      "link":"http://bananatv.org:25461/bananatv/bananatv/1",
+	    	    
+       "premium":"false"
     
     },
     
    
-    
-    {
+	    {
       "name":"Thai: ALTV (1080P)",
     
       "catagory":"asia",
