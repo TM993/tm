@@ -193,8 +193,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "time": "13.5.2023 (11:00 PM)",
-"url": "",
-"live":"0",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1684010436-0-0-56920cce937fe58961a194c5c4553cfc&user_session_id=db9e9269726a53cc2c2d3e118861c168&sub_m3u8=true&edge_slice=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991116_lsd.m3u8?user_session_id=237336084cd192242259642788d42a61&auth_key=1684010436-0-0-66c6b9d3e0de181c7168c2a8657a5962&sub_m3u8=true&edge_slice=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1684010720-0-0-5f74aff2e7fd79fe15688934a1593795&user_session_id=714929fdc7e199ee028915f0f94a7385&sub_m3u8=true&edge_slice=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?auth_key=1684010720-0-0-0113f24070432f8974737a7ceb537c32&sub_m3u8=true&user_session_id=c7e7012796b4f2991f9bc627c226cee3&edge_slice=true",
+"live":"1",
 "type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
 "league": "Bundesliga Round 32"
