@@ -127,9 +127,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "time": "14.5.2023 (1:30 AM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991112_lhd.m3u8?sub_m3u8=true&auth_key=1684019556-0-0-dad8cf8d567ae31132c8863a61fc9f5e&user_session_id=cfdcaae7f5f009b76357e363eafd995f&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991112_lsd.m3u8?sub_m3u8=true&auth_key=1684019556-0-0-c0e1c63b1af4ec12dae4a1d3d14882ed&edge_slice=true&user_session_id=7abded46cf61e1cda236f349dc3e1995,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd_2690.ts?vhost=pull.juqihuo.com&edge_slice=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?user_session_id=68ed8eea2852816bc344ec1c82d39fb0&auth_key=1684019660-0-0-0acf843d089f0f5dcd3f35cc0ef8ee5c&edge_slice=true&sub_m3u8=true",
+"live":"1",
+"type": "Sever1,Sever2,Sever3,Sever4",
 "premium":"true",
 "league": "LaLiga Round 34"
 },
