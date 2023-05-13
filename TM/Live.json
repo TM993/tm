@@ -114,8 +114,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "time": "13.5.2023 (11:00 PM)",
-"url": "",
-"live":"0",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&user_session_id=7674d3d3079cbad95cf5f098e9df312f&auth_key=1684011156-0-0-f493c97ddf5e41860895b13d76601995&edge_slice=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?edge_slice=true&auth_key=1684011156-0-0-fe8acbd1d068cfdffe75cb541bf10942&sub_m3u8=true&user_session_id=ac8c217888f9adf9b0d9f5391f83bd7a,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684011380-0-0-3c6e4208383cb40628cf0fa77daee43a&user_session_id=9004ce8ec9259b7ff5ec0f6f20386b42,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?auth_key=1684011380-0-0-c217c7a3fc3b64aca5e791594ff68fae&edge_slice=true&user_session_id=57b8ee9f0f64a027b8db1c005a24f19c&sub_m3u8=true",
+"live":"1",
 "type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
 "league": "LaLiga Round 34"
@@ -153,8 +153,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "time": "13.5.2023 (10:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-118206_lhd.m3u8?txSecret=4660b9856634d2cb44fa25f3f87a9e52&txTime=645ff9fc,https://sports01.livnvess.com/live/stream-118206_lsd.m3u8?txSecret=4660b9856634d2cb44fa25f3f87a9e52&txTime=645ff9fc",
+"live":"1",
 "type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
 "league": "Serie A Round 35"
