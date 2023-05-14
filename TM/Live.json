@@ -110,12 +110,14 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "time": "14.5.2023 (7:30 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=1c1ed6bb01e4d45c5f9c67af5b8a3960&txTime=64611d14,https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=1c1ed6bb01e4d45c5f9c67af5b8a3960&txTime=64611d14,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?edge_slice=true&auth_key=1684086140-0-0-f05432a9c0c7a71cb2d5817e731167fe&user_session_id=92052d40dd9dae8d5068aa78aae1dec2&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lsd.m3u8?user_session_id=968005008cfdccec0283fe75e121b5ad&auth_key=1684086140-0-0-f1c569f8e89eb4b882098829caf5cf56&edge_slice=true&sub_m3u8=true
+",
+"live":"1",
+"type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Italy Serie A"
 },
+
 
 {
 "id": "2266",
@@ -123,9 +125,10 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "time": "14.5.2023 (7:30 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?user_session_id=4578d0c8efcc447c5600b232ebbc46b5&sub_m3u8=true&edge_slice=true&auth_key=1684086216-0-0-8800fb07e30c3501f5b011ba05c6f4fb,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991116_lsd.m3u8?sub_m3u8=true&auth_key=1684086216-0-0-fe9b117bb70df037c2b2aa30e6a04230&user_session_id=1388cff467fdefe858f0cbb56fde8827&edge_slice=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684086320-0-0-9a47746f0275e2932e6a1470e8d087a7&user_session_id=f0e22fe24d37baaa7f2863a61ffa8ce2,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lsd.m3u8?edge_slice=true&user_session_id=741e50c5e8d0bf0f008e9cd653c427d5&auth_key=1684086320-0-0-b69f020d369a6a1c4418170fc4593280&sub_m3u8=true
+",
+"live":"1",
+"type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Italy Serie A"
 },
@@ -149,12 +152,14 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "time": "14.5.2023 (8:00 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=6bbdb7f3ba32cd4a86c2db12aa5bb72d&txTime=64611e7c,https://sports01.livnvess.com/live/stream-107307_lsd.m3u8?txSecret=6bbdb7f3ba32cd4a86c2db12aa5bb72d&txTime=64611e7c,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lhd.m3u8?auth_key=1684086440-0-0-d461e76801487f3cf9503dddd82f2185&edge_slice=true&user_session_id=3e04a777e0bfe7fcb1335904798f1440&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?auth_key=1684086440-0-0-4f73df71d1cce1772635197b6fc5fd0e&sub_m3u8=true&user_session_id=f88d81ca580207d5e03cd14c56d908bb&edge_slice=true
+",
+"live":"1",
+"type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Germany Bundesliga"
 },
+
 
 
 {
@@ -215,12 +220,14 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
 "time": "14.5.2023 (7:30 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-435421_lhd.m3u8?edge_slice=true&auth_key=1684086696-0-0-8e81fc3006156dcb48389dfdd2bdb755&sub_m3u8=true&user_session_id=b206684655f2287deadfb7ad0af23432,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-435421_lsd.m3u8?sub_m3u8=true&auth_key=1684086696-0-0-84dac649d8d55231904f79129d95451c&edge_slice=true&user_session_id=f9c5bb50f4c720aac0aad413cd19a090,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lhd.m3u8?auth_key=1684086740-0-0-3ddddef04e1392c5cba1f829aab3ea38&sub_m3u8=true&edge_slice=true&user_session_id=77a4ba99f9cede00e95c8eaf62c514ca,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lsd.m3u8?auth_key=1684086740-0-0-1a7441152c9cdc0b3905fdd88318eaed&sub_m3u8=true&user_session_id=5404dca20071885b503dd17a828cfedb&edge_slice=true
+",
+"live":"1",
+"type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "France Ligue 1"
 },
+
 
 {
 "id": "2266",
@@ -228,9 +235,10 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
 "time": "14.5.2023 (7:30 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=c84c2d3767b93563c9ac9a376a656aef&txTime=6461205c,https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=c84c2d3767b93563c9ac9a376a656aef&txTime=6461205c,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1684086920-0-0-f0bc09c4855a168dbfa497a1e030b638&user_session_id=cb14b1028ac9869a446964c39fc65343&sub_m3u8=true&edge_slice=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd_0.ts?vhost=pull.juqihuo.com&edge_slice=true
+",
+"live":"1",
+"type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "France Ligue 1"
 },
