@@ -83,9 +83,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "time": "14.5.2023 (11:00 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1684096056-0-0-2d20ac0aaf579d39060117fd208faf36&sub_m3u8=true&user_session_id=a1ac3adb01bc8a33d82b284e83bafd20&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?user_session_id=d5c4da258c934a10e12f6e1a4b60da1d&sub_m3u8=true&auth_key=1684096056-0-0-84aca6ff96f3bb7b5b44bc6600c030d4&edge_slice=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=ba6d11cdb858d8ebf0140c515964c5f5&auth_key=1684096220-0-0-2e911e45695e4914f7e67d87065c902d&edge_slice=true&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?auth_key=1684096220-0-0-70a429b0cdb30c81f51f9140d2bb8817&user_session_id=5cd8af93a850ee7da58682a95ea308f0&edge_slice=true&sub_m3u8=true",
+"live":"1",
+"type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Spain LaLiga"
 },
