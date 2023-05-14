@@ -201,33 +201,6 @@
 "league": "France Ligue 1"
 },
 
-{
-"id": "2266",
-"title": "Montpellier Vs Lorient",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-"time": "14.5.2023 (7:30 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
-"premium":"true",
-"league": "France Ligue 1"
-},
-
-{
-"id": "2266",
-"title": "Rennes Vs Troyes",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
-"time": "14.5.2023 (7:30 PM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-435421_lhd.m3u8?edge_slice=true&auth_key=1684086696-0-0-8e81fc3006156dcb48389dfdd2bdb755&sub_m3u8=true&user_session_id=b206684655f2287deadfb7ad0af23432,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-435421_lsd.m3u8?sub_m3u8=true&auth_key=1684086696-0-0-84dac649d8d55231904f79129d95451c&edge_slice=true&user_session_id=f9c5bb50f4c720aac0aad413cd19a090,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lhd.m3u8?auth_key=1684086740-0-0-3ddddef04e1392c5cba1f829aab3ea38&sub_m3u8=true&edge_slice=true&user_session_id=77a4ba99f9cede00e95c8eaf62c514ca,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lsd.m3u8?auth_key=1684086740-0-0-1a7441152c9cdc0b3905fdd88318eaed&sub_m3u8=true&user_session_id=5404dca20071885b503dd17a828cfedb&edge_slice=true
-",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "France Ligue 1"
-},
-
 
 {
 "id": "2266",
@@ -249,22 +222,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
 "time": "14.5.2023 (9:35 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
-"premium":"true",
-"league": "France Ligue 1"
-},
-
-{
-"id": "2266",
-"title": "Monaco Vs Lille",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-"time": "14.5.2023 (9:35 PM)",
-"url": "",
-"live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"url": "https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=bce197d003d126192b021b158361c721&txTime=646142d0,https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=bce197d003d126192b021b158361c721&txTime=646142d0",
+"live":"1",
+"type": "HD,SD",
 "premium":"true",
 "league": "France Ligue 1"
 },
