@@ -248,12 +248,14 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
 "time": "15.5.2023 (1:15 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=17d98d513227ac1c217ca0d56e1f65a9&txTime=64615248,https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=17d98d513227ac1c217ca0d56e1f65a9&txTime=64615248,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684099820-0-0-029daa761e5ab219ea008d67448ae1e2&user_session_id=c005935d9153842248a3fc1831a6fab9,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&auth_key=1684099820-0-0-9cd0b8aed12451b75c68cdaf0fdb07de&user_session_id=7e540a0727ce1910d7f2c20b54ecd077&edge_slice=true
+",
+"live":"1",
 "type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
 "league": "Italy Serie A"
 },
+
 
 {
 "id": "2266",
@@ -261,8 +263,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
 "time": "15.5.2023 (1:15 PM)",
-"url": "",
-"live":"0",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-173024_lhd.m3u8?auth_key=1684099836-0-0-c0aa14c446de3c0719054b21431a85dc&edge_slice=true&sub_m3u8=true&user_session_id=b775f37cbf92df6d21c789b0ebb02e3c,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-173024_lsd.m3u8?auth_key=1684099836-0-0-1845657a21f9b0d811f23c819fa4fd6c&user_session_id=415e6da59b7b8a5c2d9fb4e32bee5922&sub_m3u8=true&edge_slice=true",
+"live":"1",
 "type": "Sever1,Sever2,Sever3,Sever4,Sever5",
 "premium":"true",
 "league": "France Ligue 1"
