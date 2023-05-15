@@ -6,269 +6,45 @@
  
 {
 "id": "2266",
-"title": "Brentford Vs West Ham United",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-"time": "14.5.2023 (7:30 PM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991103_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c0a535508f70f99bb71d41b02912d73e&auth_key=1684084836-0-0-ec13f9814591ba677aa1e9d40872dd23,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991103_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684084836-0-0-c1e583de8bd901670775909343a7960c&user_session_id=607a8bee4474d05e8a6284d9af3664dc,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?auth_key=1684084880-0-0-01fd877eb5f0710ab61ba6e753004a88&edge_slice=true&user_session_id=b52c7f4dc9c973076de41bd2309d0127&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?user_session_id=eb26327683fa6942805f42a597c19843&edge_slice=true&auth_key=1684084880-0-0-56afa0851b0886a61f795ccfcad868b5&sub_m3u8=true",
-",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Premier League Round 36"
-},
-
-
-{
-"id": "2266",
-"title": "Everton Vs Manchester City",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-"time": "14.5.2023 (7:30 PM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991108_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684085016-0-0-6731db7fd5212655709c09a0cade99b0&user_session_id=c14273818243c50891e9b1d8de7975e4,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991108_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9bcb4930ee51c5e76058d4b438c57da3&auth_key=1684085016-0-0-effcebed8840a2f04644054313182d10,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&user_session_id=058ba9993783ad293287085e0b1d5ee1&sub_m3u8=true&auth_key=1684085120-0-0-fd7b5a182873fe01e0277e0ab3440666,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&user_session_id=15fd2a78f28ac07ef863ee02a9101773&auth_key=1684085120-0-0-036a36b508b59e48707232f58cbaa159&edge_slice=true",
-",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Premier League Round 36"
-},
-
-
-{
-"id": "2266",
-"title": "Arsenal Vs Brighton & Hove Albion",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"time": "14.5.2023 (10:00 PM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991107_lhd.m3u8?sub_m3u8=true&auth_key=1684085316-0-0-4c0f154d7f2f34e74f3dd0b9b5d10849&user_session_id=8548ad224ad3db474c17d217cb2fdd1b&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991107_lsd.m3u8?edge_slice=true&user_session_id=8a67e41c05a01a96d24137302d2574e3&sub_m3u8=true&auth_key=1684085316-0-0-8b6199b8740d988623a7912d2f1472fc,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&user_session_id=ee454f7de48c736285e215473815c91a&auth_key=1684085120-0-0-fd7b5a182873fe01e0277e0ab3440666&edge_slice=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=db4907acfe23384d59c49d8b7b602d34&sub_m3u8=true&auth_key=1684085120-0-0-036a36b508b59e48707232f58cbaa159&edge_slice=true",
-",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Premier League Round 36"
-},
-
-
-
-
-{
-"id": "2266",
-"title": "Celta Vigo Vs Valencia",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-"time": "14.5.2023 (6:30 PM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1684083816-0-0-372a6f1842c426dc078dc1b201ae3224&sub_m3u8=true&user_session_id=a46e313ccfdeb0d63e91f1079826417b&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991112_lsd.m3u8?auth_key=1684083816-0-0-e07ad3fc29f59f46066637007a36d86a&user_session_id=828f8b4d50dcb5baded703848824a96a&sub_m3u8=true&edge_slice=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-641487_lhd.m3u8?auth_key=1684084280-0-0-056b4023da20649980e5962701e4d320&edge_slice=true&sub_m3u8=true&user_session_id=f6a3aebf9fec1164a8bf3d4356267fec,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-641487_lsd.m3u8?auth_key=1684084280-0-0-d99b944a7ff5d88da4e68edfd960a512&user_session_id=47e59a0a3ac7522049f3912a47d7ce28&sub_m3u8=true&edge_slice=true",
-"live":"၁",
-"type": "HD1,SD2,HD2,SD2",
-"premium":"true",
-"league": "Spain LaLiga"
-},
-
-{
-"id": "2266",
-"title": "Elche Vs Atletico Madrid",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"time": "14.5.2023 (8:45 PM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&auth_key=1684095036-0-0-8f6765eed18b5214d6cd2a1e0338be0d&edge_slice=true&user_session_id=86efb3242174c7994f3e735f919d4160,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1684095036-0-0-801679f311e82c8b7797a5773891ca6a&user_session_id=17edd4f7ca6df0d053a9e9bf535ffee6&sub_m3u8=true&edge_slice=true",
-"live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
-"premium":"true",
-"league": "Spain LaLiga"
-},
-
-{
-"id": "2266",
-"title": "Real Valladolid Vs Sevilla",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"time": "14.5.2023 (11:00 PM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1684096056-0-0-2d20ac0aaf579d39060117fd208faf36&sub_m3u8=true&user_session_id=a1ac3adb01bc8a33d82b284e83bafd20&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?user_session_id=d5c4da258c934a10e12f6e1a4b60da1d&sub_m3u8=true&auth_key=1684096056-0-0-84aca6ff96f3bb7b5b44bc6600c030d4&edge_slice=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=ba6d11cdb858d8ebf0140c515964c5f5&auth_key=1684096220-0-0-2e911e45695e4914f7e67d87065c902d&edge_slice=true&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?auth_key=1684096220-0-0-70a429b0cdb30c81f51f9140d2bb8817&user_session_id=5cd8af93a850ee7da58682a95ea308f0&edge_slice=true&sub_m3u8=true",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Spain LaLiga"
-},
-
-
-{
-"id": "2266",
-"title": "Hellas Verona Vs Torino",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-"time": "14.5.2023 (5:00 PM)",
-"url": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?auth_key=1684080920-0-0-e1815cc46d4be972c1b2ba347caf457a&edge_slice=true&sub_m3u8=true&user_session_id=2c4172cd99a1d17177d2cd6a360f49a3,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?sub_m3u8=true&user_session_id=dc28ad0dfa6e2486228417945bf85a7a&auth_key=1684080920-0-0-fe8a251e6891fcb2f3c1cad598b3df4a&edge_slice=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991108_lhd.m3u8?auth_key=1684081056-0-0-8b2450442ba1ab3f973e70df24f62987&edge_slice=true&sub_m3u8=true&user_session_id=0e8c05f19edecb578562ce952321eaa5,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991108_lsd.m3u8?sub_m3u8=true&auth_key=1684081056-0-0-8bfc62fe0d41cf84da4b8c0e835612b8&user_session_id=26ddc4fdb94825bb64e96b9fb92d44be&edge_slice=true",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Italy Serie A"
-},
-
-{
-"id": "2266",
-"title": "Fiorentina Vs Udinese",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-"time": "14.5.2023 (7:30 PM)",
-"url": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=1c1ed6bb01e4d45c5f9c67af5b8a3960&txTime=64611d14,https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=1c1ed6bb01e4d45c5f9c67af5b8a3960&txTime=64611d14,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?edge_slice=true&auth_key=1684086140-0-0-f05432a9c0c7a71cb2d5817e731167fe&user_session_id=92052d40dd9dae8d5068aa78aae1dec2&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lsd.m3u8?user_session_id=968005008cfdccec0283fe75e121b5ad&auth_key=1684086140-0-0-f1c569f8e89eb4b882098829caf5cf56&edge_slice=true&sub_m3u8=true",
-",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Italy Serie A"
-},
-
-
-{
-"id": "2266",
-"title": "Monza Vs Napoli",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-"time": "14.5.2023 (7:30 PM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?user_session_id=4578d0c8efcc447c5600b232ebbc46b5&sub_m3u8=true&edge_slice=true&auth_key=1684086216-0-0-8800fb07e30c3501f5b011ba05c6f4fb,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991116_lsd.m3u8?sub_m3u8=true&auth_key=1684086216-0-0-fe9b117bb70df037c2b2aa30e6a04230&user_session_id=1388cff467fdefe858f0cbb56fde8827&edge_slice=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684086320-0-0-9a47746f0275e2932e6a1470e8d087a7&user_session_id=f0e22fe24d37baaa7f2863a61ffa8ce2,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lsd.m3u8?edge_slice=true&user_session_id=741e50c5e8d0bf0f008e9cd653c427d5&auth_key=1684086320-0-0-b69f020d369a6a1c4418170fc4593280&sub_m3u8=true",
-",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Italy Serie A"
-},
-
-{
-"id": "2266",
-"title": "Bologna Vs Roma",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"time": "14.5.2023 (10:30 PM)",
-"url": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8,https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8,https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8,https://179720687.global.cdnfastest.com/live/sd-8yomo4hg56yeq0j/chunklist_w16289872.m3u8",
-"live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
-"premium":"true",
-"league": "Italy Serie A"
-},
-
-{
-"id": "2266",
-"title": "VfB Stuttgart Vs Bayer Leverkusen",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"time": "14.5.2023 (8:00 PM)",
-"url": "https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=6bbdb7f3ba32cd4a86c2db12aa5bb72d&txTime=64611e7c,https://sports01.livnvess.com/live/stream-107307_lsd.m3u8?txSecret=6bbdb7f3ba32cd4a86c2db12aa5bb72d&txTime=64611e7c,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lhd.m3u8?auth_key=1684086440-0-0-d461e76801487f3cf9503dddd82f2185&edge_slice=true&user_session_id=3e04a777e0bfe7fcb1335904798f1440&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?auth_key=1684086440-0-0-4f73df71d1cce1772635197b6fc5fd0e&sub_m3u8=true&user_session_id=f88d81ca580207d5e03cd14c56d908bb&edge_slice=true",
-",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Germany Bundesliga"
-},
-
-
-
-{
-"id": "2266",
-"title": "RB Leipzig Vs Bayer Werder Bremen",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-"time": "14.5.2023 (10:00 PM)",
-"url": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8,https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/playlist.m3u8,https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8,https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8,https://179720687.global.cdnfastest.com/live/sd-2y8m4zhw4888ql0/playlist.m3u8,https://179720687.global.cdnfastest.com/live/hd-en-2y8m4zhw4888ql0/playlist.m3u8",
-"live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
-"premium":"true",
-"league": "Germany Bundesliga"
-},
-
-{
-"id": "2266",
-"title": "Clermont Foot Vs Lyon",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-"time": "14.5.2023 (5:30 PM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-102153_lhd.m3u8?sub_m3u8=true&user_session_id=3c0fa4e001e4f8966b14e452b7f862fd&edge_slice=true&auth_key=1684080576-0-0-155d2cd9a8e8066c79d8a2470a076009,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?auth_key=1684080576-0-0-b2c11945223ace32558d3242afca29d9&sub_m3u8=true&user_session_id=3ad04c58d096052208a6825afa14599c&edge_slice=true",
-"live":"1",
-"type": "HD1,SD1",
-"premium":"true",
-"league": "France Ligue 1"
-},
-
-{
-"id": "2266",
-"title": "Brest Foot Vs Auxerre",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
-"time": "14.5.2023 (7:30 PM)",
+"title": "Leicester City Vs Liverpool",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+"time": "16.5.2023 (1:30 AM)",
 "url": "",
 "live":"0",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
-"premium":"true",
-"league": "France Ligue 1"
-},
-
-
-{
-"id": "2266",
-"title": "Toulouse Vs Nantes",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-"time": "14.5.2023 (7:30 PM)",
-"url": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=c84c2d3767b93563c9ac9a376a656aef&txTime=6461205c,https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=c84c2d3767b93563c9ac9a376a656aef&txTime=6461205c,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1684086920-0-0-f0bc09c4855a168dbfa497a1e030b638&user_session_id=cb14b1028ac9869a446964c39fc65343&sub_m3u8=true&edge_slice=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd_0.ts?vhost=pull.juqihuo.com&edge_slice=true",
-",
-"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
-"league": "France Ligue 1"
-},
-
-{
-"id": "2266",
-"title": "Monaco Vs Lille",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-"time": "14.5.2023 (9:35 PM)",
-"url": "https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=bce197d003d126192b021b158361c721&txTime=646142d0,https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=bce197d003d126192b021b158361c721&txTime=646142d0",
-"live":"1",
-"type": "HD,SD",
-"premium":"true",
-"league": "France Ligue 1"
-},
-
-{
-"id": "2266",
-"title": "Espanyol Vs Barcelona",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"time": "15.5.2023 (1:30 PM)",
-"url": "https://sports01.livnvess.com/live/stream-991112_lhd.m3u8?txSecret=2b3fdaf1db8711c25c3ec20528555f1e&txTime=64615fe0,https://sports01.livnvess.com/live/stream-991112_lsd.m3u8?txSecret=2b3fdaf1db8711c25c3ec20528555f1e&txTime=64615fe0",
-"live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
-"premium":"true",
-"league": "Spain LaLiga"
-},
-
-{
-"id": "2266",
-"title": "Juventus Vs Cremonese",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-"time": "15.5.2023 (1:15 PM)",
-"url": "https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=17d98d513227ac1c217ca0d56e1f65a9&txTime=64615248,https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=17d98d513227ac1c217ca0d56e1f65a9&txTime=64615248,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684099820-0-0-029daa761e5ab219ea008d67448ae1e2&user_session_id=c005935d9153842248a3fc1831a6fab9,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&auth_key=1684099820-0-0-9cd0b8aed12451b75c68cdaf0fdb07de&user_session_id=7e540a0727ce1910d7f2c20b54ecd077&edge_slice=true",
-",
-"live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
-"premium":"true",
-"league": "Italy Serie A"
+"league": "Premier League"
 },
 
 
 {
 "id": "2266",
-"title": "Marseille Vs Angers",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
-"time": "15.5.2023 (1:15 PM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-173024_lhd.m3u8?auth_key=1684099836-0-0-c0aa14c446de3c0719054b21431a85dc&edge_slice=true&sub_m3u8=true&user_session_id=b775f37cbf92df6d21c789b0ebb02e3c,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-173024_lsd.m3u8?auth_key=1684099836-0-0-1845657a21f9b0d811f23c819fa4fd6c&user_session_id=415e6da59b7b8a5c2d9fb4e32bee5922&sub_m3u8=true&edge_slice=true",
-"live":"1",
-"type": "Sever1,Sever2,Sever3,Sever4,Sever5",
+"title": "Real Betis Vs Rayo Vallecano",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+"time": "16.5.2023 (1:30 AM)",
+"url": "",
+"live":"0",
+"type": "HD1,SD1,HD2,SD2",
 "premium":"true",
-"league": "France Ligue 1"
+"league": "Spain - Laliga"
+},
+
+
+{
+"id": "2266",
+"title": "Sampdoria Vs Empoli",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+"time": "16.5.2023 (1:30 AM)",
+"url": "",
+"live":"0",
+"type": "HD1,SD1,HD2,SD2",
+"premium":"true",
+"league": "Italy - Serie A"
 }
+
 
     
     
