@@ -6,43 +6,30 @@
  
 {
 "id": "2266",
-"title": "Leicester City Vs Liverpool",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"time": "16.5.2023 (1:30 AM)",
-"url": "https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=977fbce4541ba16b95efca2e380a783d&txTime=6462c858,https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=977fbce4541ba16b95efca2e380a783d&txTime=6462c858,https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=977fbce4541ba16b95efca2e380a783d&txTime=6462c858,https://pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1684197080-0-0-598f69686433e505bf98fd2c59bde960",
+"title": "Al Taee Vs Al Nassr FC",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/101917_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+"time": "17.5.2023 (1:00 AM)",
+"url": "",
 "live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
-"league": "Premier League"
+"league": "Saudi Arabia Premier League"
 },
+
 
 
 {
 "id": "2266",
-"title": "Real Betis Vs Rayo Vallecano",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-"time": "16.5.2023 (1:30 AM)",
-"url": "https://pull.juqihuo.com/live/stream-698583_lhd.m3u8?auth_key=1684197560-0-0-13592d6f776edd6a89520d20333a449f,https://pull.juqihuo.com/live/stream-698583_lsd.m3u8?auth_key=1684197560-0-0-d4886ea1694005f133d707636764e5db",
+"title": "Inter Vs Milan",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"time": "17.5.2023 (1:30 AM)",
+"url": "",
 "live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
-"league": "Spain - Laliga"
-},
-
-
-{
-"id": "2266",
-"title": "Sampdoria Vs Empoli",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-"time": "16.5.2023 (1:30 AM)",
-"url": "https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=d8de69039d96c76c03fd1aeec7409bb1&txTime=6462cf25,https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=4be042c9efd942118964ff191f38c2fd&txTime=6462cfd9,https://pull.juqihuo.com/live/stream-759231_lhd.m3u8?auth_key=1684197260-0-0-40fb0805b045bbad6f27a2d27ac3762c,https://pull.juqihuo.com/live/stream-759231_lsd.m3u8?auth_key=1684197260-0-0-fbc523194469c2c774cdacd59df43b45",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Italy - Serie A"
+"league": "Champions League"
 }
 
 
