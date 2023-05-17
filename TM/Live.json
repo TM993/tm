@@ -6,28 +6,12 @@
  
 {
 "id": "2266",
-"title": "Al Taee Vs Al Nassr FC",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/101917_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"time": "17.5.2023 (1:00 AM)",
-"url": "https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=b78181e02cf6a388e5a88548281e2293&txTime=646417bd,https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=b78181e02cf6a388e5a88548281e2293&txTime=646417bd,https://pull.juqihuo.com/live/stream-886721_lhd.m3u8?auth_key=1684281380-0-0-af439901a4ca6d96d7dcea344f471933,https://pull.juqihuo.com/live/stream-886721_lsd.m3u8?auth_key=1684281380-0-0-70a4bf32bb1f907b66f26fbf4aa38cea",
-"live":"1",
-"type": "HD1,SD1,HD2,SD2",
-"premium":"true",
-"league": "Saudi Arabia Premier League"
-},
-
-
-
-
-{
-"id": "2266",
-"title": "Inter Vs Milan",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-"time": "17.5.2023 (1:30 AM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?user_session_id=53afff6668776bbbff9ef3ba2ac44867&auth_key=1684282717-0-0-99d775fa6a2c0bc86da7898ce9d95a9a&sub_m3u8=true&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?auth_key=1684282717-0-0-2d70835e0de550613a8c5eb8364be9ce&user_session_id=e0ac309ee57b1e64cf9291de79935824&sub_m3u8=true&edge_slice=true",
-"live":"1",
+"title": "Manchester City Vs Real Madrid",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"time": "18.5.2023 (1:30 AM)",
+"url": "",
+"live":"0",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Champions League"
