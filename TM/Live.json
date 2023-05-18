@@ -10,8 +10,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "time": "19.5.2023 (1:30 AM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=c52b69a9342245f8ae83192db0a28b95&txTime=6466bd8d",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "International Europa League"
@@ -24,8 +24,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "time": "19.5.2023 (1:30 AM)",
-"url": "",
-"live":"0",
+"url": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?auth_key=1684454840-0-0-570f3d0bf4c37ee51e0f0670a3c260b0&user_session_id=ad809c7a44dc30a9f251bb944d979294&edge_slice=true&sub_m3u8=true",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "International Europa League"
@@ -38,13 +38,12 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "time": "19.5.2023 (1:30 AM)",
-"url": "",
-"live":"0",
-"type": "HD1,SD1,HD2,SD2",
+"url": "https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=ef8255b019a718984d94e6beb5c54786&txTime=6466bd15,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684454720-0-0-7b7fb69d046c212f839dbe1568037855&user_session_id=d1599faa23c817798973dba4f94fa658",
+"live":"1",
+"type": "HD1,HD2",
 "premium":"true",
 "league": "England Premier League"
 }
-
 
     
     
