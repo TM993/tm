@@ -472,41 +472,6 @@
        "premium":"true"
      },
 
-{
-  "name":"5Plus",
-    
-      "catagory":"mm",
-    
-      "image":"https://serving.photos.photobox.com/624514937887c0eeb792937d7b5cf010307eaffedc78c4b10dc9a489b06fed149671d2be.jpg",
-    
-      "link":"http://183.89.246.119:8881/play/a07w/index.m3u8",
-		    
-       "premium":"true"
-     },
-
-{
-  "name":"Channel 7",
-    
-      "catagory":"mm",
-    
-      "image":"https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png",
-    
-      "link":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941744&extension=ts&play_token=EsigBOh3mS",
-		    
-       "premium":"true"
-     },
-	    
-{
-  "name":"Mahar",
-    
-      "catagory":"mm",
-    
-      "image":"https://serving.photos.photobox.com/96920991e6bef9193c873f735bb04e72f1316215daac7f14c39ceccda610abe3426b46fe.jpg",
-    
-      "link":"https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
-		    
-       "premium":"true"
-     },
 	    
 {
   "name":"Bein Sport HD",
@@ -834,44 +799,12 @@
      },
 	    
 	    
-	    {
-  "name":"Channel K",
-    
-      "catagory":"mm",
-    
-      "image":"https://upload.wikimedia.org/wikipedia/en/4/4d/Channel_K_TV_Channel_Logo.jpg",
-    
-      "link":"http://183.89.246.119:8881/play/a080/index.m3u8",
-		    	    
-       "premium":"true"
-     },
+
 	    
 	    
 	    
-	    	    {
-  "name":"Channel 9",
-    
-      "catagory":"mm",
-    
-      "image":"https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
-    
-      "link":"http://183.89.246.119:8881/play/a07y/index.m3u8",
-			    	    
-       "premium":"true"
-     },
 	    
-	    
-	    	    	    {
-  "name":"MRTV Enteraiment",
-    
-      "catagory":"mm",
-    
-      "image":"https://upload.wikimedia.org/wikipedia/en/0/0b/Channel_ME_Logo.jpg",
-    
-      "link":"http://183.89.246.119:8881/play/a07t/index.m3u8",
-				    	    
-       "premium":"true"
-     },
+
 	    
 	    
 	    	    	    	    {
