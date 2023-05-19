@@ -82,6 +82,103 @@
        "premium":"true"
     
     },
+
+
+    {
+      "name":"UK:Bein Sport 1",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.ibb.co/zxCgXj4/Ar-bein-sport-1.jpg",
+    
+      "link":"http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:C7:02:2C&stream=238265&extension=ts&play_token=XNiWtHLSe5",
+			    	    
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"UK:Bein Sport 2",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.ibb.co/1sjkpmS/AR-bein-sport-2.jpg",
+    
+      "link":"http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:C7:02:2C&stream=238264&extension=ts&play_token=fiZpcCWnAQ",
+			    	    
+       "premium":"true"
+    
+    },
+	    
+
+	    {
+      "name":"UK:Bein Sport 3",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.ibb.co/0KzgWPs/AR-Bein-Sport-3.jpg",
+    
+      "link":"http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:C7:02:2C&stream=238266&extension=ts&play_token=8ZNHkd1dhV",
+			    	    
+       "premium":"true"
+    
+    },
+
+    {
+      "name":"UK:Bein Sport 4",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.ibb.co/ykZ91rq/ar-bein-sport-4.jpg",
+    
+      "link":"http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:C7:02:2C&stream=238267&extension=ts&play_token=Y9DtblYM3n",
+			    	    
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"UK:Bein Sport 5",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.ibb.co/tYPDrcG/ar-bein-sport-5.jpg",
+    
+      "link":"http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:C7:02:2C&stream=238268&extension=ts&play_token=CDiY6BjfJs",
+			    	    
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"UK:Bein Sport 6",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.ibb.co/51cQV4F/AR-Bein-Sport-6.png",
+    
+      "link":"http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:C7:02:2C&stream=238269&extension=ts&play_token=qjUqra4iHf",
+			    	    
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"UK:Bein Sport 7",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.ibb.co/PW74TRH/AR-Bein-Sport-7.png",
+    
+      "link":"http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:C7:02:2C&stream=238270&extension=ts&play_token=D6Ut0heOTm",
+			    	    
+       "premium":"true"
+    
+    },
 	    
 	    
   
