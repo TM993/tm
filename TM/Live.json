@@ -133,8 +133,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
 "time": "20.5.2023 (11:00 PM)",
-"url": "",
-"live":"0",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?sub_m3u8=true&user_session_id=4807527a8c20ff1c4c13f61ff82d6d14&auth_key=1684617878-0-0-fe77cd0964388f129e7e29a5b6ef40cb&edge_slice=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-499490_lsd.m3u8?sub_m3u8=true&auth_key=1684617878-0-0-0364eb430258cff2649ce8bdafa7bc9e&user_session_id=b5c1ee59bdd4644808b37504a9a839e3&edge_slice=true
+",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Spain Laliga"
