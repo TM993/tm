@@ -217,8 +217,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
 "time": "21.5.2023 (1:30AM)",
-"url": "",
-"live":"0",
+"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a4d1ac19a4a4b9bc2069d4057f2be614&auth_key=1684625017-0-0-b026e82d6a792565c8646d870781a84c,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?sub_m3u8=true&user_session_id=ccb8887aae8dfd7e1d99659b22d92345&auth_key=1684625017-0-0-1d0e463ae34f33ea96751308e068af81&edge_slice=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?user_session_id=f4268ee1099d51f494e16912567714fe&sub_m3u8=true&edge_slice=true&auth_key=1684625121-0-0-0423b473849fdf952bfe7c544ca024f8",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Intaly Serie A"
@@ -230,8 +230,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "time": "21.5.2023 (1:30AM)",
-"url": "",
-"live":"0",
+"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1684625617-0-0-04e547e90db2d8f4d8792e13249b0609&user_session_id=f8bddc1720555b8e7c71a81225ce6eca&edge_slice=true&sub_m3u8=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?auth_key=1684625617-0-0-43404cc863d94a1150447d4e211a5eb3&sub_m3u8=true&user_session_id=803906a09e112f6e5dd0ee23d2a6de62&edge_slice=true",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Ligue 1"
