@@ -120,8 +120,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "time": "20.5.2023 (11:00 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=bf952284375bc5892b37d686634df837&txTime=64692fcd,https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=bf952284375bc5892b37d686634df837&txTime=64692fcd,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&auth_key=1684615341-0-0-eccdaaeddb62d8455f66a302a9b950b4&user_session_id=588a30c20793a45acb4d0eecd4e8532d&sub_m3u8=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1684615341-0-0-38f1df8c22888f549b83edd2657b5a1b&user_session_id=62e85434ab4d44413c170e6ebe4e832f&edge_slice=true&sub_m3u8=true",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Spain Laliga"
