@@ -21,12 +21,13 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "time": "20.5.2023 (8:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?sub_m3u8=true&auth_key=1684607557-0-0-8c3bd074cdd98c3854d02d81e0c84ef1&edge_slice=true&user_session_id=8c4f13e708a5a551a911f2806014f1a4,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?user_session_id=9d7b68faf3f991712b5dc2031f4cbbdf&edge_slice=true&sub_m3u8=true&auth_key=1684607557-0-0-604f8de6605d1e5c190a4013f8cf28e1,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?auth_key=1684607841-0-0-1866ee91a16bcc877dc1f348648f3833&edge_slice=true&sub_m3u8=true&user_session_id=08d5fe4962d9a97f0c55c8e0957f9b66,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?auth_key=1684607841-0-0-7b4272e1b234f03bcb67c5a29601deb0&edge_slice=true&sub_m3u8=true&user_session_id=2ce0d3e53ff001e64f9d81bd5aa48296",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Premier League"
 },
+
 
 {
 "id": "2266",
@@ -34,8 +35,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "time": "20.5.2023 (8:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=37f6319a21045e24a61e89fd12eb0313&txTime=646913e9,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7d411528508c5ad2740d0c999b779c10&auth_key=1684609717-0-0-b152c13949868cb1f4f07d7079152ba7,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?edge_slice=true&user_session_id=7189f4d27f31f2badaee0cac51373a5a&sub_m3u8=true&auth_key=1684610001-0-0-6ff67956aad7482f371defa98942f1a5,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lsd.m3u8?edge_slice=true&auth_key=1684610001-0-0-f2b331303a06262a26da9542ace63c7b&sub_m3u8=true&user_session_id=f1d6cf8b0cceb7b2069a3d6e9a572fde",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Premier League"
@@ -48,8 +49,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "time": "20.5.2023 (8:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=b5f94c236f8ed636b7a1a7edb81c16c6&txTime=64691c59,https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=b5f94c236f8ed636b7a1a7edb81c16c6&txTime=64691c59,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684610241-0-0-248b05dc9788e727a6419fe166347797&user_session_id=f228f982db5c75241639b50b65e6cb4d,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684610241-0-0-4b4fec9078f0af2ca8a15afb884bf56c&user_session_id=84b7a76c6b7dd866e24479371dd886b9",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Premier League"
@@ -62,8 +63,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "time": "20.5.2023 (8:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991106_lhd.m3u8?sub_m3u8=true&auth_key=1684610557-0-0-f855c38891240599f33d587488c748d9&user_session_id=7af5356227543875dc2cf93710bd0131&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991106_lsd.m3u8?sub_m3u8=true&user_session_id=670a3fd3a54aa6e17357fdce6a690dda&auth_key=1684610557-0-0-876dba1e65187fbc2c095a62840ad67e&edge_slice=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?edge_slice=true&auth_key=1684610661-0-0-0b1c97802b4a9a456f4bf61aa0df8a96&user_session_id=d53cfc7336ee5d94c2463dc97cc15ec4&sub_m3u8=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lsd.m3u8?edge_slice=true&auth_key=1684610661-0-0-f14fdcaeba35bf2adc73f8604bd3c85c&user_session_id=235b5bb13c7e609c33e62899e273aa7a&sub_m3u8=true",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Premier League"
@@ -76,12 +77,13 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "time": "20.5.2023 (8:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=a1af72a5a87d7d9268fc58ffeadf20d6&txTime=64691eed,https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=a1af72a5a87d7d9268fc58ffeadf20d6&txTime=64691eed,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?user_session_id=a7900988d9752307876fb5129d2c041e&sub_m3u8=true&auth_key=1684610901-0-0-1f9c8f89cc3eb8830e067a54164ebf8d&edge_slice=true,https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684610901-0-0-44e52698914b2a3c26cec98e39f56eef&user_session_id=5e6d7b5955e797f6dfe466dec5a2795c",
+"live":"1",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
 "league": "Premier League"
 },
+
 
 
 {
