@@ -248,9 +248,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "time": "22.5.2023 (1:30 PM)",
-"url": "",
-"live":"0",
-"type": "HD1,SD1,HD2,SD2",
+"url": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=f1f87009f6410c31c3fe7c576924a342&txTime=646aace5",
+"live":"1",
+"type": "HD",
 "premium":"true",
 "league": "LaLiga"
 },
