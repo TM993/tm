@@ -233,12 +233,13 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
 "time": "21.5.2023 (9:35 PM)",
-"url": "",
-"live":"0",
-"type": "HD1,SD1,HD2,SD2",
+"url": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=7d60be4dd05993d47f04af0e43198cb8&txTime=646a68b1,https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=7d60be4dd05993d47f04af0e43198cb8&txTime=646a68b1",
+"live":"1",
+"type": "HD1,SD1",
 "premium":"true",
 "league": "Ligue 1"
 },
+
 
 
 {
