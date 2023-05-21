@@ -105,9 +105,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "time": "21.5.2023 (7:30 PM)",
-"url": "",
-"live":"0",
-"type": "HD1,SD1,HD2,SD2",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991110_lhd.m3u8?sub_m3u8=true&auth_key=1684685857-0-0-acf4fd53a13ca6c228c7a4f2c9bb2116&user_session_id=6b2a7748e80cf8d9bbc8b0414e84f40f&edge_slice=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991110_lsd.m3u8?sub_m3u8=true&auth_key=1684685857-0-0-6fe5d8fe40fb65f6f542ff41e48e6ee9&user_session_id=1e540a5c75cd6da744251f287b0ca67a&edge_slice=true",
+"live":"1",
+"type": "HD1,SD1",
 "premium":"true",
 "league": "Serie A"
 },
