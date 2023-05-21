@@ -275,9 +275,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "time": "22.5.2023 (12:00 PM)",
-"url": "",
-"live":"0",
-"type": "HD1,SD1,HD2,SD2",
+"url": "https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=115955d1d10b3311f75a78282cdcf093&txTime=646aab7d",
+"live":"1",
+"type": "HD1",
 "premium":"true",
 "league": "Bundesliga"
 },
