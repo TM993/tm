@@ -134,12 +134,13 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
 "time": "21.5.2023 (8:00 PM)",
-"url": "",
-"live":"0",
-"type": "HD1,SD1,HD2,SD2",
+"url": "https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=9b8f7f0b1187ce6062702ad7b4003c8e&txTime=646a4589,https://sports01.livnvess.com/live/stream-197901_lsd.m3u8?txSecret=9b8f7f0b1187ce6062702ad7b4003c8e&txTime=646a4589",
+"live":"1",
+"type": "HD1,SD1",
 "premium":"true",
 "league": "Bundesliga"
 },
+
 
 
 {
