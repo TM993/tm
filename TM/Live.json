@@ -1,49 +1,46 @@
 {
     "hls":[
    
-   
- 
- 
 {
 "id": "2266",
-"title": "Roma Vs Salernitana",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-"time": "21.5.2023 (7:00 PM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?sub_m3u8=true&user_session_id=a8794a9f37e33c898801d936b48b553c&edge_slice=true&auth_key=1684795177-0-0-5fdd9b47c6f25d8d8e86ef78f91fc9bb,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6dd41d0d7264e597caa01dcbbf99f36c&auth_key=1684795177-0-0-c1d324d5aebea6ece3850120e9af33fd",
-"live":"1",
+"title": "Celta Vigo Vs Girona",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
+"time": "24.5.2023 (12:00 AM)",
+"url": "",
+"live":"0",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
-"league": "Serie A"
+"league": "Laliga League"
 },
 
-
 {
 "id": "2266",
-"title": "Newcastle United Vs Leicester City",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-"time": "23.5.2023 (1:30 PM)",
-"url": "https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=46b2b67464cb4066f1336a4c120ebd3f&txTime=646c01ad",
-"live":"1",
+"title": "Real Sociedad Vs Almeria",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9865.png",
+"time": "24.5.2023 (12:00 AM)",
+"url": "",
+"live":"0",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
-"league": "Premier League"
+"league": "Laliga League"
 },
 
-
 {
 "id": "2266",
-"title": "Empoli Vs Juventus",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"time": "23.5.2023 (1:15 AM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-250874_lhd.m3u8?sub_m3u8=true&auth_key=1684799857-0-0-8577d14df2ea6e28f4e1a5ebb08f8637&edge_slice=true&user_session_id=b74a86cd44bc7449cf54445a7bd364eb",
-"live":"1",
+"title": "Real Valladolid Vs Barcelona",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10281.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+"time": "24.5.2023 (2:30 AM)",
+"url": "",
+"live":"0",
 "type": "HD1,SD1,HD2,SD2",
 "premium":"true",
-"league": "Serie A"
+"league": "Laliga League"
 }
+
+
     
     
     ]
