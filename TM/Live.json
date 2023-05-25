@@ -3,100 +3,44 @@
    
 {
 "id": "2266",
-"title": "Brighton & Hove Albion Vs Manchester City",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-"time": "25.5.2023 (1:30 AM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991131_lhd.m3u8?sub_m3u8=true&auth_key=1684967677-0-0-c6ac20245ad8afdad1c7b65e5a2bee2b&edge_slice=true&user_session_id=2672b11bcda198a781a2745937360a67,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991131_lsd.m3u8?sub_m3u8=true&auth_key=1684967677-0-0-bf09e23150e78fd1b9e284f6af3b986f&edge_slice=true&user_session_id=328063823e03a181c15539032d18e26a",
-"live":"1",
+"title": "Manchester United Vs Chelsea",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+"time": "26.5.2023 (1:30 AM)",
+"url": "",
+"live":"0",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "Premier League"
 },
 
-
 {
 "id": "2266",
-"title": "Elche Vs Sevilla",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"time": "25.5.2023 (12:00 AM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&user_session_id=d6c320fa776251f5e247c1ef31accbae&auth_key=1684967497-0-0-e97ea28400a52f9aa832380ac78d70d1&edge_slice=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?sub_m3u8=true&user_session_id=5f18b18ad7cc88bc0195ca04c7510bde&edge_slice=true&auth_key=1684967497-0-0-b0adaeedab37a346a5bbd0c4abebd92f",
-"live":"1",
+"title": "Mallorca Vs Valencia",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
+"time": "26.5.2023 (12:00 AM)",
+"url": "",
+"live":"0",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
-"league": "LaLiga"
+"league": "Laliga League"
+},
+        
+{
+"id": "2266",
+"title": "Osasuna Vs Athletic Club",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+"time": "26.5.2023 (2:00 AM)",
+"url": "",
+"live":"0",
+"type": "Premium Sever HD,Premium Sever SD",
+"premium":"true",
+"league": "Laliga League"
 },
 
 
-{
-"id": "2266",
-"title": "Real Madrid Vs Rayo Vallecano",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-"time": "25.5.2023 (12:00 AM)",
-"url": "https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=5963c4e44b95d8816c950ae92bae1488&txTime=646e9085,https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=5963c4e44b95d8816c950ae92bae1488&txTime=646e9085",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "LaLiga"
-},
-
-
-{
-"id": "2266",
-"title": "Villarreal Vs Cadiz",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-"time": "25.5.2023 (12:00 AM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&user_session_id=82d8d3eac2d2cba8b2d759d051bdbf39&edge_slice=true&auth_key=1684969357-0-0-28b1538c86128fac73afb37ac8749e6a,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?edge_slice=true&user_session_id=5a147105e9c10ff97290e42453d73151&auth_key=1684969357-0-0-d61f82c2a549ae198b7231ec753b6ed1&sub_m3u8=true",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "LaLiga"
-},
-
-
-{
-"id": "2266",
-"title": "Espanyol Vs Atletico Madrid",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"time": "25.5.2023 (2:30 AM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?edge_slice=true&user_session_id=67885b3234d5b7a9490694b5c650fbc5&auth_key=1684968037-0-0-bbe57be0ef28f4062b64ec087385818d&sub_m3u8=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-348199_lsd.m3u8?edge_slice=true&user_session_id=f9d441f83bee33a25e28755dea3d6a54&sub_m3u8=true&auth_key=1684968037-0-0-0260f551cca4480ff7d83e7b110aff2c",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "LaLiga"
-},
-
-
-{
-"id": "2266",
-"title": "Real Betis Vs Getafe",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-"time": "25.5.2023 (2:30 AM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?sub_m3u8=true&auth_key=1684967917-0-0-e5791fbe7676b5dfa0539ecf19005bc6&edge_slice=true&user_session_id=105511a034e6b72ab8327fb21aa690fc,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?edge_slice=true&auth_key=1684967917-0-0-bbe16d64b56fe3ef5c452ffab38a0744&sub_m3u8=true&user_session_id=e72ee719d81224fc827f5ad4c2410faa",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "LaLiga"
-},
-
-
-{
-"id": "2266",
-"title": "Fiorentina Vs Inter",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-"time": "25.5.2023 (1:30 AM)",
-"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1684967797-0-0-be330fb71fe231bf5ae7f13ee3806bf2&user_session_id=0ecb7a2a971311b6ff1c2f1267573042&edge_slice=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&user_session_id=3dc42c9698a28856fc31ed34ed69b1fc&auth_key=1684967797-0-0-21405141347e891a5acfa640d091bc35&edge_slice=true",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "Coppa Italia Final"
-}
 
 
 
