@@ -3,61 +3,86 @@
 
 {
 "id": "2266",
-"title": "Celta Vigo Vs Girona",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"time": "24.5.2023 (12:00 PM)",
-"url": "https://sources.topravideo.com/UpFiles/2023/5/23/42/256372/720p.m3u8",
+"title": "Brighton & Hove Albion Vs Manchester City",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+"time": "25.5.2023 (1:30 AM)",
+"url": "https://foo.topravideo.com/UpFiles/2023/5/24/42/256459/360p.m3u8",
 "go1": "1",
 "go2": "1",
 "type": "1",
 "premium":"true",
-"league": "LaLiga"
+"league": "Premier League"
 },
-
 
 {
 "id": "2266",
-"title": "Real Sociedad Vs Almeria",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-"time": "24.5.2023 (12:00 PM)",
-"url": "https://sources.topravideo.com/UpFiles/2023/5/24/42/256408/720p.m3u8",
+"title": "Elche Vs Sevilla",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
+"time": "25.5.2023 (12:00 AM)",
+"url": "https://foo.topravideo.com/UpFiles/2023/5/24/42/256432/720p.m3u8",
 "go1": "1",
+"go2": "1",
+"type": "1",
+"premium":"true",
+"league": "Laliga"
+},
+
+{
+"id": "2266",
+"title": "Real Madrid Vs Rayo Vallecano",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
+"time": "25.5.2023 (12:00 AM)",
+"url": "https://foo.topravideo.com/UpFiles/2023/5/24/42/256436/360p.m3u8",
+"go1": "2",
+"go2": "1",
+"type": "1",
+"premium":"true",
+"league": "Laliga"
+},
+
+{
+"id": "2266",
+"title": "Villarreal Vs Cadiz",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
+"time": "25.5.2023 (12:00 AM)",
+"url": "https://foo.topravideo.com/UpFiles/2023/5/24/42/256431/360p.m3u8",
+"go1": "2",
 "go2": "0",
 "type": "1",
 "premium":"true",
-"league": "LaLiga"
+"league": "Laliga"
 },
-
 
 {
 "id": "2266",
-"title": "Real Valladolid Vs Barcelona",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"time": "24.5.2023 (2:30 PM)",
-"url": "https://sources.topravideo.com/UpFiles/2023/5/22/42/256334/360p.m3u8",
+"title": "Espanyol Vs Atletico Madrid",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
+"time": "25.5.2023 (2:30 AM)",
+"url": "https://foo.topravideo.com/UpFiles/2023/5/25/42/256464/360p.m3u8",
 "go1": "3",
-"go2": "1",
+"go2": "3",
 "type": "1",
 "premium":"true",
-"league": "LaLiga"
+"league": "Laliga"
 },
-
 
 {
 "id": "2266",
-"title": "Real Valladolid Vs Barcelona",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"time": "24.5.2023 (2:30 PM)",
-"url": "https://sources.topravideo.com/UpFiles/2023/5/22/42/256334/360p.m3u8",
-"go1": "3",
+"title": "Real Betis Vs Getafe",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
+"time": "25.5.2023 (2:30 AM)",
+"url": "https://foo.topravideo.com/UpFiles/2023/5/24/42/256463/720p.m3u8",
+"go1": "0",
 "go2": "1",
 "type": "1",
 "premium":"true",
-"league": "LaLiga"
+"league": "Laliga"
 }
 
 
