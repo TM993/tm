@@ -15,19 +15,21 @@
 "league": "Premier League"
 },
 
+
 {
 "id": "2266",
 "title": "Mallorca Vs Valencia",
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
 "time": "26.5.2023 (12:00 AM)",
-"url": "https://foo.topravideo.com/UpFiles/2023/5/25/42/256481/360p.m3u8",
+"url": "https://foo.topravideo.com/UpFiles/2023/5/25/42/256481/0.m3u8",
 "go1": "1",
 "go2": "0",
 "type": "1",
 "premium":"true",
-"league": "Laliga League"
+"league": "LaLiga"
 },
+
 
 {
 "id": "2266",
@@ -35,12 +37,12 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
 "time": "26.5.2023 (2:00 AM)",
-"url": "https://foo.topravideo.com/UpFiles/2023/5/25/42/256498/360p.m3u8",
+"url": "https://sources.topravideo.com/UpFiles/2023/5/22/42/256334/360p.m3u8",
 "go1": "2",
 "go2": "0",
 "type": "1",
 "premium":"true",
-"league": "Laliga League"
+"league": "LaLiga"
 }
 
 
