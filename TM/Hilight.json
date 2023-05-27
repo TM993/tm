@@ -3,47 +3,20 @@
 
 {
 "id": "2266",
-"title": "Manchester United Vs Chelsea",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-"time": "26.5.2023 (1:30 AM)",
-"url": "https://foo.topravideo.com/UpFiles/2023/5/25/42/256496/360p.m3u8",
-"go1": "4",
-"go2": "1",
-"type": "1",
-"premium":"true",
-"league": "Premier League"
-},
-
-
-{
-"id": "2266",
-"title": "Mallorca Vs Valencia",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
-"time": "26.5.2023 (12:00 AM)",
-"url": "https://foo.topravideo.com/UpFiles/2023/5/25/42/256481/0.m3u8",
-"go1": "1",
-"go2": "0",
-"type": "1",
-"premium":"true",
-"league": "LaLiga"
-},
-
-
-{
-"id": "2266",
-"title": "Osasuna Vs Athletic Club",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-"time": "26.5.2023 (2:00 AM)",
-"url": "https://sources.topravideo.com/UpFiles/2023/5/22/42/256334/360p.m3u8",
+"title": "Sampdoria Vs Sassuolo",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/9882.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
+"time": "27.5.2023 (1:15 AM)",
+"url": "https://foo.topravideo.com/UpFiles/2023/5/26/42/256531/360p.m3u8",
 "go1": "2",
-"go2": "0",
+"go2": "2",
 "type": "1",
 "premium":"true",
-"league": "LaLiga"
+"league": "Serie A  League"
 }
+
+
+
 
 
 
