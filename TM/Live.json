@@ -20,8 +20,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "time": "27.5.2023 (7:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=b8af6d57cf8d67aa554b580a762a19c7&txTime=6472513a,https://sports01.livnvess.com/live/stream-420171_lsd.m3u8?txSecret=b8af6d57cf8d67aa554b580a762a19c7&txTime=6472513a",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "Serie A"
@@ -33,8 +33,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
 "time": "27.5.2023 (7:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1685214278-0-0-2bd176e469bba07a55b2901a945ad590&user_session_id=8844de0cc8fa4750827f4f7dc88bbbfd&sub_m3u8=true&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?auth_key=1685214278-0-0-09dc93287c1aeb996a06f2e0687744f6&user_session_id=e1709665fbe9b9ff1931af304fe936a2&sub_m3u8=true&edge_slice=true",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "Serie A"
