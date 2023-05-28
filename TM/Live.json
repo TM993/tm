@@ -253,8 +253,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
 "time": "28.5.2023 (11:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1685306361-0-0-6c2e745cd654b09db36eceef6fc00a82&sub_m3u8=true&user_session_id=cabb0e8f20bffadc98fda0a85566a102&edge_slice=true,https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?user_session_id=46cbc13e3917536144135ee8791392bc&auth_key=1685306361-0-0-7986f0b1a69fcaacd67a1e04b33bf581&sub_m3u8=true&edge_slice=true",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "LaLiga"
@@ -309,13 +309,12 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "time": "29.5.2023 (1:15 PM)",
-"url": "",
-"live":"0",
+"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?edge_slice=true&user_session_id=75e70f38112d4fd6b87c9fd54add5f51&auth_key=1685292518-0-0-9fbd7c2d24afe75a4b16abd140cd6833&sub_m3u8=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?edge_slice=true&user_session_id=a386a0a86c0551c78ee7d92dea3c931c&auth_key=1685292518-0-0-85804609f139fc0be6418c5ade74ce0d&sub_m3u8=true",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "Serie A"
 }
-
 
 
 
