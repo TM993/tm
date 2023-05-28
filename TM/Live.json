@@ -265,9 +265,9 @@
 "title": "Bologna Vs Napoli",
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-"time": "28.5.2023 (5:00 PM)",
-"url": "",
-"live":"0",
+"time": "28.5.2023 (7:30 PM)",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685292098-0-0-c01caf8e787eaaded00e159a1d9f922e&edge_slice=true&user_session_id=79c9caeb82e38371bb0a357f182f6406&sub_m3u8=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?edge_slice=true&auth_key=1685292098-0-0-13135cda1cd94637a3d6650e2acf882b&user_session_id=fba6169ccc8b4e350e1ea8ac303c86e3&sub_m3u8=true",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "Serie A"
@@ -279,13 +279,14 @@
 "title": "Monza Vs Lecce",
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-"time": "28.5.2023 (5:00 PM)",
-"url": "",
-"live":"0",
+"time": "28.5.2023 (7:30 PM)",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1685292158-0-0-e626c3ce9959307448a5a09651a91f01&edge_slice=true&user_session_id=936c5e6241d354b4efacccc2244649e6&sub_m3u8=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991131_lsd.m3u8?user_session_id=174b23541897024513b1071e77be0513&sub_m3u8=true&edge_slice=true&auth_key=1685292158-0-0-c604c10ce8441967f0fb58933bcaa875",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "Serie A"
 },
+
 
 
 {
