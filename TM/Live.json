@@ -185,8 +185,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "time": "28.5.2023 (11:00 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=b589d874d88fb9b52190b6326664377b&txTime=6473856e,https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=b589d874d88fb9b52190b6326664377b&txTime=6473856e",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "LaLiga"
@@ -199,8 +199,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "time": "28.5.2023 (11:00 PM)",
-"url": "",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=a6f5599d9251ff0354ff0bd1af7cff72&txTime=647385aa,https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=a6f5599d9251ff0354ff0bd1af7cff72&txTime=647385aa",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "LaLiga"
