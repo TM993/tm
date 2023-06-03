@@ -1,13 +1,13 @@
 {
     "hls":[
-  {
+ {
 "id": "2266",
 "title": "Torino Vs Inter",
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "time": "3.6.2023 (11:00 PM)",
-"url": "",
-"live":"0",
+"url": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?user_session_id=7bd991d087bf761497ee1345200640f4&sub_m3u8=true&auth_key=1685831858-0-0-35a52a12c4789e85ff12b8e73cd84640&edge_slice=true,https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1685831858-0-0-1c50abba1744e85bfb7f1f0e159d1847&sub_m3u8=true&user_session_id=76deb9c96351fc6617a0060debd45771&edge_slice=true",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "Serie A"
