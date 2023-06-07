@@ -1042,6 +1042,63 @@
                         
        "premium":"true"
     
+    },
+	    
+	    
+	    
+	    {
+      "name":"BBC News",
+    
+      "catagory":"other",
+    
+      "image":"https://i.postimg.cc/N07b0c5Y/bbc-news.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/696",
+                        
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"ANIMAL PLANET",
+    
+      "catagory":"other",
+    
+      "image":"https://i.postimg.cc/Qd70R5DF/ANIMAL-PLANET.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/6329",
+                        
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"Discovery World",
+    
+      "catagory":"other",
+    
+      "image":"https://i.postimg.cc/TPXCGw2C/Discovery-Channels.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/185",
+                        
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"Fashion TV",
+    
+      "catagory":"other",
+    
+      "image":"https://i.postimg.cc/PxXypRwD/fashion-tv.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146555",
+                        
+       "premium":"true"
+    
     }
 
 
