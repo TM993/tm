@@ -973,7 +973,77 @@
                         
        "premium":"true"
     
+    },
+	    
+	    {
+      "name":"Zee Bollywood",
+    
+      "catagory":"movie",
+    
+      "image":"https://i.postimg.cc/T3W6z8z9/zee-bollywood.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1351",
+                        
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"Zee Cinema Asia",
+    
+      "catagory":"movie",
+    
+      "image":"https://i.postimg.cc/wTrz4xGM/zee-cinema.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1350",
+                        
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"Zee Cinema Asia",
+    
+      "catagory":"movie",
+    
+      "image":"https://i.postimg.cc/PqWkqWrv/zee-magic.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/281920",
+                        
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"Zee TV",
+    
+      "catagory":"movie",
+    
+      "image":"https://i.postimg.cc/vBGwx4cq/zee-tv.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1348",
+                        
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"Zee World",
+    
+      "catagory":"movie",
+    
+      "image":"https://i.postimg.cc/nLbJZRZt/zee-world.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/172264",
+                        
+       "premium":"true"
+    
     }
+
 
 
 	    
