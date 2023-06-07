@@ -932,7 +932,48 @@
       "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3464",
         
        "premium":"true"
-     }
+     },
+	    
+	    
+	    {
+      "name":"WWE",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.postimg.cc/mkqwvL1q/wwe.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2373",
+                        
+       "premium":"true"
+    
+    },
+
+    {
+      "name":"Fighter Network",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.postimg.cc/SNtT3zXg/Fighter-Network.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/9235",
+                        
+       "premium":"true"
+    
+    },
+
+
+    {
+      "name":"Polsat Sport FIGHT",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.postimg.cc/hv0FV4MH/Polsat-Sport-FIGHT.jpg",
+    
+      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/26592",
+                        
+       "premium":"true"
+    
+    }
 
 
 	    
