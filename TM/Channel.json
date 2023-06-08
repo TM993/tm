@@ -4,95 +4,17 @@
     
    
     
-    {
-      "name":"BeinSport Premium 1",
     
-      "catagory":"sport",
-    
-      "image":"https://serving.photos.photobox.com/707174830b9e60f2624425bfb48b9db46cf525fbd9e0233a0ad50aa8d1acd683642d9adf.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/109",
-      
-      "premium":"true"
-    },
-	    
-    {
-      "name":"Bein Sport Premium 2",
-    
-      "catagory":"sport",
-    
-      "image":"https://serving.photos.photobox.com/57745881d6f5b906502c809c7b471b947d00edf2a499d54bfc7734f1bca3cf6b69841ac9.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280145",
-	    
-       "premium":"true"
-    
-    },
-    
-    {
-      "name":"Bein Sport Premium 3",
-    
-      "catagory":"sport",
-    
-      "image":"https://serving.photos.photobox.com/753340722ba400e5cc1d774623ae2e918654a35eff4dcbab2eb67e355b52890b77f4c753.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280249",
-	    	    
-       "premium":"true"
-    
-    },
-    
-	    
-{
-      "name":"Bein Sport English 1",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png",
-    
-      "link":"http://locals.forevertv.me:8080/live/Omer22/v2hDdcLT1w/142743.ts",
-		    	    
-       "premium":"true"
-    
-    },
-	    
-	    
-{
-      "name":"Bein Sport English 2",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/111",
-		    	    
-       "premium":"true"
-    
-    },
-	    
-	    
-{
-      "name":"Bein Sport English 3",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png",
-    
-      "link":"http://locals.forevertv.me:8080/live/Omer22/v2hDdcLT1w/142745.ts",
-			    	    
-       "premium":"true"
-    
-    },
 
 
     {
-      "name":"UK:Bein Sport 1",
+      "name":"Bein Sport 1",
     
       "catagory":"sport",
     
       "image":"https://i.ibb.co/zxCgXj4/Ar-bein-sport-1.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2272",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/5569",
 			    	    
        "premium":"true"
     
@@ -100,40 +22,40 @@
 
 
     {
-      "name":"UK:Bein Sport 2",
+      "name":"Bein Sport 2",
     
       "catagory":"sport",
     
       "image":"https://i.ibb.co/1sjkpmS/AR-bein-sport-2.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/151022",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/5568",
 			    	    
        "premium":"true"
     
     },
 	    
 
-{
-      "name":"UK:Bein Sport 3",
+	    {
+      "name":"Bein Sport 3",
     
       "catagory":"sport",
     
       "image":"https://i.ibb.co/0KzgWPs/AR-Bein-Sport-3.jpg",
     
-      "link":"http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:C7:02:2C&stream=238266&extension=ts&play_token=8ZNHkd1dhV",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/5567",
 			    	    
        "premium":"true"
     
     },
 
     {
-      "name":"UK:Bein Sport 4",
+      "name":"Bein Sport 4",
     
       "catagory":"sport",
     
       "image":"https://i.ibb.co/ykZ91rq/ar-bein-sport-4.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/151024",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/5566",
 			    	    
        "premium":"true"
     
@@ -141,49 +63,21 @@
 
 
     {
-      "name":"UK:Bein Sport 5",
+      "name":"Bein Sport 5",
     
       "catagory":"sport",
     
       "image":"https://i.ibb.co/tYPDrcG/ar-bein-sport-5.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/151026",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/5565",
 			    	    
        "premium":"true"
     
     },
 
 
-    {
-      "name":"UK:Bein Sport 6",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/51cQV4F/AR-Bein-Sport-6.png",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/105",
-			    	    
-       "premium":"true"
-    
-    },
-
-
-    {
-      "name":"UK:Bein Sport 7",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/PW74TRH/AR-Bein-Sport-7.png",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/106",
-			    	    
-       "premium":"true"
-    
-    },
-	    
-	    
-  
-    {
+   
+	 {
       "name":"SONY AATH",
       
       "catagory":"movie",
@@ -229,7 +123,7 @@
     
       "image":"https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4_400x400.jpg",
     
-      "link":"http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJR5VCjlxQtltbLWwFafIgN4/ts",
+      "link":"http://bananatv.org:25461/bananatv/bananatv/5",
 	    	    
        "premium":"false"
     
@@ -361,7 +255,7 @@
     
       "image":"https://serving.photos.photobox.com/54869424f7223ace5e20a025cf18a80dea6e285ba1084ff91a6a70497ffce76c3d39faa2.jpg",
     
-      "link":"http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1483",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7452",
 			    
        "premium":"true"
     
@@ -373,7 +267,7 @@
     
       "image":"https://i.ibb.co/HzqzTjp/Sport-Tv-2.jpg",
     
-      "link":"http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1486",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7450",
 			    
        "premium":"true"
     
@@ -385,7 +279,7 @@
     
       "image":"https://serving.photos.photobox.com/5193711050bc8eb318885babdd563028df444c4303c4e78b4290eb3593db3fb6668d5cd4.jpg",
     
-      "link":"http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1489",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7449",
 	    	    
        "premium":"true"
     
@@ -397,22 +291,14 @@
     
       "image":"https://serving.photos.photobox.com/20039024c5d623b85ddd8c7074696ef377f2f2ad0d98d40040d00869d163cbb4e18c6cc3.jpg",
     
-      "link":"http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1492",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7446",
 	    	    
        "premium":"true"
     
     },
-    {
-  "name":"Sport TV5",
-    
-      "catagory":"sport",
-    
-      "image":"https://serving.photos.photobox.com/34335450fbbcdba6fb1cf4fb3c7ca4886921823e81f319a1e09fe2b03153cd0ab2194d7a.jpg",
-    
-      "link":"http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1495",
-	    	    
-       "premium":"true"
-    },
+  
+
+
     {
   "name":"SuperSport Action",
     
@@ -420,7 +306,7 @@
     
       "image":"https://i.ibb.co/Gd2smBq/supersport-action.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/194354",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9329",
 	    	    
        "premium":"true"
      },
@@ -432,7 +318,7 @@
     
       "image":"https://i.ibb.co/H7zZ22D/Super-Sport-Blitz.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/281536",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9328",
 	
 		    
        "premium":"true"
@@ -445,7 +331,7 @@
     
       "image":"https://i.ibb.co/74K3VM1/supersport-golf.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11641",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9325",
 		    
        "premium":"true"
      },
@@ -457,7 +343,7 @@
     
       "image":"https://i.ibb.co/d2mF6mW/supersport-tennies.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/15200",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9317",
 		    
        "premium":"true"
      },
@@ -469,7 +355,7 @@
     
       "image":"https://i.ibb.co/PjnXF15/supersport-psl.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11643",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9319",
 		    
        "premium":"true"
      },
@@ -481,22 +367,12 @@
     
       "image":"https://i.ibb.co/XDnj6P7/Super-Sport-Maximo-1.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/38572",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9052",
 		    
        "premium":"true"
      },
 	    
-{
-  "name":"SuperSport Rugby",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/HXHR2z2/supersport-rugby.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11639",
-		    
-       "premium":"true"
-     },   
+
 	
 {
   "name":"SuperSport Grandstand",
@@ -505,7 +381,7 @@
     
       "image":"https://i.ibb.co/x5kNkpg/super-grandtant.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/194353",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9324",
 		    
        "premium":"true"
      },      
@@ -517,7 +393,7 @@
     
       "image":"https://i.ibb.co/RpmQYtF/super-sport-premier-league.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11642",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9320",
 		    
        "premium":"true"
      }, 
@@ -529,7 +405,7 @@
     
       "image":"https://i.ibb.co/cF84HPc/supersport-variety-1.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11633",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9316",
 		    
        "premium":"true"
      },
@@ -541,7 +417,7 @@
     
       "image":"https://i.ibb.co/3CJC7G6/supersport-variety-2.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11634",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9315",
 		    
        "premium":"true"
      },
@@ -553,7 +429,7 @@
     
       "image":"https://i.ibb.co/vsnH755/supersport-variety-3.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11635",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9314",
 		    
        "premium":"true"
      },
@@ -568,7 +444,7 @@
     
       "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/720",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/2598",
 			    	    
        "premium":"true"
      },
@@ -581,7 +457,7 @@
     
       "image":"https://i.postimg.cc/tTnV55vH/24-Mr-Bean-Cartoon.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298498",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/8695",
 				    	    
        "premium":"true"
      },
@@ -594,7 +470,7 @@
     
       "image":"https://i.postimg.cc/tTFFbk3N/canal-kid.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/281601",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/3095",
 		    
        "premium":"true"
      },
@@ -606,22 +482,12 @@
     
       "image":"https://i.postimg.cc/FK5BVWHj/discovery-kid.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/9060",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9664",
         
        "premium":"true"
      },
 
-      {
-  "name":"Knowledge Kids",
-    
-      "catagory":"cartoon",
-    
-      "image":"https://i.postimg.cc/rskx00GT/knowledge-kids.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/13276",
-        
-       "premium":"true"
-     },
+
 
 {
   "name":"Sony Ten 1",
@@ -684,17 +550,8 @@
        "premium":"true"
      },
 	    
-      {
-  "name":"Sky Sports Action",
     
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/2ZfygSL/sky-sport-action.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/268",
-        
-       "premium":"true"
-     },
+
 
      {
   "name":"Sky Sports Arena",
@@ -703,23 +560,13 @@
     
       "image":"https://i.ibb.co/CJLzBm6/sky-sport-arena.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/267",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/8363",
         
        "premium":"true"
      },
 
 
-{
-  "name":"Sky Sports Cricket",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/Xy61DLn/sky-sport-cricket.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/269",
-        
-       "premium":"true"
-     },
+
 
 
      {
@@ -729,7 +576,7 @@
     
       "image":"https://i.ibb.co/jHyStd5/sky-sport-f1.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/265",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/2403",
         
        "premium":"true"
      },
@@ -741,7 +588,7 @@
     
       "image":"https://i.ibb.co/rfLg3zM/sky-sport-football.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/266",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/8366",
         
        "premium":"true"
      },
@@ -754,21 +601,7 @@
     
       "image":"https://i.postimg.cc/g2D4rTxz/sky-sport-golf.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264",
-        
-       "premium":"true"
-     },
-
-
-
-     {
-  "name":"Sky Sports Main Event",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/rdhJt8p/sky-sport-main-event.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/283053",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/8367",
         
        "premium":"true"
      },
@@ -782,7 +615,7 @@
     
       "image":"https://i.ibb.co/nfJPtBW/sky-sport-mix.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/261",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/2616",
         
        "premium":"true"
      },
@@ -795,7 +628,7 @@
     
       "image":"https://i.ibb.co/PgbDN3P/sky-sport-news.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/260",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/2614",
         
        "premium":"true"
      },
@@ -809,7 +642,7 @@
     
       "image":"https://i.ibb.co/p0rKhP6/sky-sport-premier-league.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/263",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/255",
         
        "premium":"true"
      },
@@ -835,7 +668,7 @@
     
       "image":"https://i.postimg.cc/ncc1R2WW/Arena-Premium-1.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/285558",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/10269",
         
        "premium":"true"
      },
@@ -848,7 +681,7 @@
     
       "image":"https://i.postimg.cc/rFnNvWXw/Arena-Premium-2.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/285559",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/10268",
         
        "premium":"true"
      },
@@ -861,7 +694,7 @@
     
       "image":"https://i.postimg.cc/LsZDksW6/Arena-Premium-3.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/285560",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/10267",
         
        "premium":"true"
      },
@@ -875,7 +708,7 @@
     
       "image":"https://i.postimg.cc/C1TNcgyC/Arena-sport-1.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/60225",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/10279",
         
        "premium":"true"
      },
@@ -889,7 +722,7 @@
     
       "image":"https://i.postimg.cc/9MdBSnV6/Arena-Sport-2.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3462",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/10278",
         
        "premium":"true"
      },
@@ -903,7 +736,7 @@
     
       "image":"https://i.postimg.cc/D07cKPw8/Arena-Sport-3.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3463",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/10277",
         
        "premium":"true"
      },
@@ -916,7 +749,7 @@
     
       "image":"https://i.postimg.cc/rsgNyRDg/Arena-Sport-4.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3465",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/10276",
         
        "premium":"true"
      },
@@ -930,7 +763,7 @@
     
       "image":"https://i.postimg.cc/v8vztk09/Arena-Sport-5.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3464",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/10275",
         
        "premium":"true"
      },
@@ -943,7 +776,7 @@
     
       "image":"https://i.postimg.cc/mkqwvL1q/wwe.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2373",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7315",
                         
        "premium":"true"
     
@@ -956,7 +789,7 @@
     
       "image":"https://i.postimg.cc/SNtT3zXg/Fighter-Network.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/9235",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/270",
                         
        "premium":"true"
     
@@ -970,7 +803,7 @@
     
       "image":"https://i.postimg.cc/hv0FV4MH/Polsat-Sport-FIGHT.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/26592",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/396",
                         
        "premium":"true"
     
@@ -983,25 +816,14 @@
     
       "image":"https://i.postimg.cc/T3W6z8z9/zee-bollywood.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1351",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/11895",
                         
        "premium":"true"
     
     },
 
 
-    {
-      "name":"Zee Cinema Asia",
-    
-      "catagory":"movie",
-    
-      "image":"https://i.postimg.cc/wTrz4xGM/zee-cinema.jpg",
-    
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1350",
-                        
-       "premium":"true"
-    
-    },
+
 
 
     {
@@ -1011,7 +833,7 @@
     
       "image":"https://i.postimg.cc/PqWkqWrv/zee-magic.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/281920",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/11992",
                         
        "premium":"true"
     
@@ -1025,7 +847,7 @@
     
       "image":"https://i.postimg.cc/vBGwx4cq/zee-tv.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1348",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7560",
                         
        "premium":"true"
     
@@ -1039,7 +861,7 @@
     
       "image":"https://i.postimg.cc/nLbJZRZt/zee-world.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/172264",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9074",
                         
        "premium":"true"
     
@@ -1054,7 +876,7 @@
     
       "image":"https://i.postimg.cc/N07b0c5Y/bbc-news.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/696",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/73",
                         
        "premium":"true"
     
@@ -1068,7 +890,7 @@
     
       "image":"https://i.postimg.cc/Qd70R5DF/ANIMAL-PLANET.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/6329",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/2351",
                         
        "premium":"true"
     
@@ -1082,7 +904,7 @@
     
       "image":"https://i.postimg.cc/TPXCGw2C/Discovery-Channels.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/185",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/5486",
                         
        "premium":"true"
     
@@ -1096,7 +918,7 @@
     
       "image":"https://i.postimg.cc/PxXypRwD/fashion-tv.jpg",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146555",
+      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7318",
                         
        "premium":"true"
     
