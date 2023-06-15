@@ -14,7 +14,7 @@
     
       "image":"https://i.ibb.co/zxCgXj4/Ar-bein-sport-1.jpg",
     
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/5569",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/153.ts",
                         
        "premium":"true"
     
@@ -42,7 +42,7 @@
     
       "image":"https://i.ibb.co/0KzgWPs/AR-Bein-Sport-3.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/11.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/154.ts",
                         
        "premium":"true"
     
@@ -55,7 +55,7 @@
     
       "image":"https://i.ibb.co/ykZ91rq/ar-bein-sport-4.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/12.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/155.ts",
                         
        "premium":"true"
     
@@ -69,7 +69,33 @@
     
       "image":"https://i.ibb.co/tYPDrcG/ar-bein-sport-5.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/13.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/157.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Bein Sport 6",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F206%2Fbein-sports-hd-1.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/158.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Bein Sport 7",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F206%2Fbein-sports-hd-1.png",
+    
+      "link":"https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png",
                         
        "premium":"true"
     
@@ -1030,8 +1056,280 @@
                         
        "premium":"true"
     
-    }
+    },
+        
+      {
+      "name":"BT Sport 1",
+    
+      "catagory":"BT Sport",
+    
+      "image":"https://mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/7.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"BT Sport 2",
+    
+      "catagory":"BT Sport",
+    
+      "image":"https://mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/8.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"BT Sport 3",
+    
+      "catagory":"BT Sport",
+    
+      "image":"https://mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/10.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"BT Sport 4",
+    
+      "catagory":"BT Sport",
+    
+      "image":"https://mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/13.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+     {
+      "name":"Canal+ Sport 1",
+    
+      "catagory":"Canal+ Sport",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/48.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Canal+ Sport 2",
+    
+      "catagory":"Canal+ Sport",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/49.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Canal+ Sport 3",
+    
+      "catagory":"Canal+ Sport",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/51.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Canal+ Sport 4",
+    
+      "catagory":"Canal+ Sport",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/53.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Canal+ Sport 5",
+    
+      "catagory":"Canal+ Sport",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/54.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Arena Premium 1",
+    
+      "catagory":"Arena Premium",
+    
+      "image":"https://gerenciador.webquadras.com.br/resources/uploaded-files/sport_center_photo/10989/Arena%20Logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/58.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Arena Premium 2",
+    
+      "catagory":"Arena Premium",
+    
+      "image":"https://gerenciador.webquadras.com.br/resources/uploaded-files/sport_center_photo/10989/Arena%20Logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/60.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Arena Premium 3",
+    
+      "catagory":"Arena Premium",
+    
+      "image":"https://gerenciador.webquadras.com.br/resources/uploaded-files/sport_center_photo/10989/Arena%20Logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/61.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Arena Sport 1",
+    
+      "catagory":"Arena Sport",
+    
+      "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b472e8715797.560c219c9b273.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/62.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Arena Sport 2",
+    
+      "catagory":"Arena Sport",
+    
+      "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b472e8715797.560c219c9b273.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/63.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Arena Sport 3",
+    
+      "catagory":"Arena Sport",
+    
+      "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b472e8715797.560c219c9b273.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/64.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Arena Sport 4",
+    
+      "catagory":"Arena Sport",
+    
+      "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b472e8715797.560c219c9b273.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/66.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+   {
+      "name":"Arena Sport 5",
+    
+      "catagory":"Arena Sport",
+    
+      "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b472e8715797.560c219c9b273.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/68.ts",
+                        
+       "premium":"true"
+    
+    },
 
+   {
+      "name":"Max Sport 1",
+    
+      "catagory":"Max Sport",
+    
+      "image":"https://www.vecernji.hr/media/img/63/0d/f6a540e1bb1e6e38b3b1.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/69.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Max Sport 2",
+    
+      "catagory":"Max Sport",
+    
+      "image":"https://www.vecernji.hr/media/img/63/0d/f6a540e1bb1e6e38b3b1.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/70.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Max Sport 3",
+    
+      "catagory":"Max Sport",
+    
+      "image":"https://www.vecernji.hr/media/img/63/0d/f6a540e1bb1e6e38b3b1.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/71.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Max Sport 4",
+    
+      "catagory":"Max Sport",
+    
+      "image":"https://www.vecernji.hr/media/img/63/0d/f6a540e1bb1e6e38b3b1.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/72.ts",
+                        
+       "premium":"true"
+    
+    }
 
 
         
