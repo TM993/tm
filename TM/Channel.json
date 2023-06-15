@@ -35,7 +35,7 @@
     },
         
 
-        {
+    {
       "name":"Bein Sport 3",
     
       "catagory":"sport",
@@ -74,9 +74,48 @@
        "premium":"true"
     
     },
-
-
-   
+        
+    {
+      "name":"Bein Sport Premium 1",
+    
+      "catagory":"sport",
+    
+      "image":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/1.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"Bein Sport Premium 2",
+    
+      "catagory":"sport",
+    
+      "image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/2.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Bein Sport Premium 3",
+    
+      "catagory":"sport",
+    
+      "image":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/3.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
      {
       "name":"SONY AATH",
       
