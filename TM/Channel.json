@@ -1329,7 +1329,388 @@
                         
        "premium":"true"
     
+    },
+        
+    {
+      "name":"V Sport Golf",
+    
+      "catagory":"V Sport Golf",
+    
+      "image":"https://www.allatvkanaler.se/assets/51/logo/v-sport-golf-tabla.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/133.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Sky Sport Golf",
+    
+      "catagory":"Sky Sport Golf",
+    
+      "image":"https://pbs.twimg.com/profile_images/1605139766118420480/C5-BM_Fu_400x400.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/134.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Super Sport Golf",
+    
+      "catagory":"Super Sport Golf",
+    
+      "image":"https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/135.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Sky Sport Tennis",
+    
+      "catagory":"Sky Sport Tennis",
+    
+      "image":"https://pbs.twimg.com/profile_images/1346190872292052992/qWsTu3N2_400x400.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/136.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Discovery",
+    
+      "catagory":"Discovery",
+    
+      "image":"https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/137.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"Netflix Box",
+    
+      "catagory":"Netflix Box",
+    
+      "image":"https://deadline.com/wp-content/uploads/2022/08/Netflix_Symbol_logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/167.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+     {
+      "name":"NETFLIX HORROR",
+    
+      "catagory":"NETFLIX HORROR",
+    
+      "image":"https://deadline.com/wp-content/uploads/2022/08/Netflix_Symbol_logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/172.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+     {
+      "name":"NETFLIX HORROR 2",
+    
+      "catagory":"NETFLIX HORROR 2",
+    
+      "image":"https://deadline.com/wp-content/uploads/2022/08/Netflix_Symbol_logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/174.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"NETFLIX HORROR 3",
+    
+      "catagory":"NETFLIX HORROR 3",
+    
+      "image":"https://deadline.com/wp-content/uploads/2022/08/Netflix_Symbol_logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/176.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"NETFLIX INDIAN",
+    
+      "catagory":"NETFLIX INDIAN",
+    
+      "image":"https://deadline.com/wp-content/uploads/2022/08/Netflix_Symbol_logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/181.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"NETFLIX INDIAN  2",
+    
+      "catagory":"NETFLIX INDIAN  2",
+    
+      "image":"https://deadline.com/wp-content/uploads/2022/08/Netflix_Symbol_logo.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/182.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"WWE",
+    
+      "catagory":"WWE",
+    
+      "image":"https://i.pinimg.com/originals/ee/b1/87/eeb18751baf5b63a9e9a1ab63ca13052.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/188.ts",
+                        
+       "premium":"true"
+    
+    },
+
+    {
+      "name":"UFC FIGHT PASS",
+    
+      "catagory":"UFC FIGHT PASS",
+    
+      "image":"https://cdns-images.dzcdn.net/images/talk/57bf8a5564648fb37fd7f89b2422aff6/500x500.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/190.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+  {
+      "name":"Polsat Sport Fight",
+    
+      "catagory":"Polsat Sport Fight",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_Sport_logo_2016.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/191.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"FightClub",
+    
+      "catagory":"FightClub",
+    
+      "image":"https://i.pinimg.com/736x/08/f4/92/08f49299f409de500bdaa9534b232ec8.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/192.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"Cartoon Network",
+    
+      "catagory":"Cartoon Network",
+    
+      "image":"https://telaviva.com.br/wp-content/uploads/2021/02/cartoon-network-.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/193.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"DISCOVERY KIDS",
+    
+      "catagory":"DISCOVERY KIDS",
+    
+      "image":"https://mediaaccess.org.au/sites/default/files/images/news_images/Discovery_Kids_logo_image.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/194.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+    {
+      "name":"BABY TV",
+    
+      "catagory":"BABY TV",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/195.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"Sony Ten 1",
+    
+      "catagory":"Sony Ten 1",
+    
+      "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/242.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"Sony Ten 2",
+    
+      "catagory":"Sony Ten 2",
+    
+      "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/243.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"Sony Ten 3",
+    
+      "catagory":"Sony Ten 3",
+    
+      "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/244.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"STAR SPORTS SELECT 1",
+    
+      "catagory":"STAR SPORTS SELECT 1",
+    
+      "image":"https://www.91-cdn.com/hub/wp-content/uploads/2022/03/Star-Sports-channels.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/245.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"STAR SPORTS SELECT 2",
+    
+      "catagory":"STAR SPORTS SELECT 2",
+    
+      "image":"https://www.91-cdn.com/hub/wp-content/uploads/2022/03/Star-Sports-channels.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/246.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"Zee TV",
+    
+      "catagory":"Zee TV",
+    
+      "image":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/247.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"ZEE CINEMA",
+    
+      "catagory":"ZEE CINEMA",
+    
+      "image":"https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2014/04/02/ZEE.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/248.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"ZEE BOLLYWOOD",
+    
+      "catagory":"ZEE BOLLYWOOD",
+    
+      "image":"https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-bollywood-logo-300x300.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/249.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"World Fashion",
+    
+      "catagory":"World Fashion",
+    
+      "image":"https://logodix.com/logo/885282.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/250.ts",
+                        
+       "premium":"true"
+    
+    },
+        
+        
+    {
+      "name":"Animal Planet",
+    
+      "catagory":"Animal Planet",
+    
+      "image":"https://deadline.com/wp-content/uploads/2018/10/animal-planet-logos-2.jpg?w=756",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/251.ts",
+                        
+       "premium":"true"
+    
     }
+        
+        
+    
 
 
         
