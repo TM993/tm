@@ -9,25 +9,14 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/5893.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6711.png",
 "time": "16.6.2023 (8:30 PM)",
-"url": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1686944740-0-0-84b6debb284dde692cfc3006298b78a5&user_session_id=9b975d331d5e0a9f443e8d7efb34ee54&sub_m3u8=true&edge_slice=true,https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?edge_slice=true&auth_key=1686944740-0-0-7f8c7ce213ecf9adda09042fda8bf203&sub_m3u8=true&user_session_id=6eec743f86ade32baa3d6cc67d84ef4a,https://pull.juqihuo.com/live/stream-623437_lhd.flv?auth_key=1686945263-0-0-c96919099f7ca1824854b6dfb0c00200,https://pull.juqihuo.com/live/stream-623437_lsd.flv?auth_key=1686945263-0-0-620e15b3b7cb0c97bd4f8a1ce0e8c491",
-"live":"1",
-"type": "HD,SD,HD 1,SD 1",
-"premium":"true",
-"league": "International Friendlies"
-},
-        
-{
-"id": "2266",
-"title": "Sweden Vs New Zealand",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
-"time": "16.6.2023 (11:30 PM)",
-"url": "https://pull.juqihuo.com/live/stream-431228_lhd.flv?auth_key=1686954083-0-0-1419657bb70762a612d3d80ced574817,https://pull.juqihuo.com/live/stream-431228_lsd.flv?auth_key=1686954083-0-0-b336e538c0004b80654040386e5b0dbb,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-344687_lhd.m3u8?user_session_id=5c558f231efb5707202c7242a427f3a9&auth_key=1686955420-0-0-6b06d7b630f9c909c4fbcb99f25026ba&sub_m3u8=true&edge_slice=true,https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-319191_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1686955660-0-0-b6e037f9294831cfe4306d68db0a39fa&user_session_id=2ce2d3618c697c2a7df49da52c4d498c",
-"live":"1",
+"url": "0",
+"live":"0",
 "type": "HD,SD,HD 1,SD 1",
 "premium":"true",
 "league": "International Friendlies"
 }
+        
+
 
 
 
