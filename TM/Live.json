@@ -5,15 +5,28 @@
 
 {
 "id": "2266",
-"title": "Kyrgyzstan Vs Iran",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/5893.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6711.png",
-"time": "16.6.2023 (8:30 PM)",
+"title": "Norway City Vs Scotland",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
+"time": "17.6.2023 (10:30 PM)",
+"url": "",
+"live":"0",
+"type": "Premium Sever HD,Premium Sever SD",
+"premium":"true",
+"league": "EURO Qualification Grp. A Round 3"
+},
+
+{
+"id": "2266",
+"title": "Montenegro Vs Hungary",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/49437_small.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8565_small.png",
+"time": "17.6.2023 (10:30 PM)",
 "url": "0",
 "live":"0",
-"type": "HD,SD,HD 1,SD 1",
+"type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
-"league": "International Friendlies"
+"league": "EURO Qualification Grp. G Round 3"
 }
         
 
