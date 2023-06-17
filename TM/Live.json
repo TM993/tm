@@ -76,8 +76,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
 "time": "17.6.2023 (1:15 AM)",
-"url": "0",
-"live":"0",
+"url": "https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=ab1db1ef8dba8b7eabe056fab162c888&txTime=648e47c5,https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=ab1db1ef8dba8b7eabe056fab162c888&txTime=648e47c5",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "EURO Qualification Grp. F Round 3"
@@ -102,8 +102,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10106_small.png",
 "time": "17.6.2023 (1:15 AM)",
-"url": "0",
-"live":"0",
+"url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687046140-0-0-69a9f442500034685a0071dcf07a8ba3&edge_slice=true&sub_m3u8=true&user_session_id=19ec19816f9ad20af829a9157f1d61bb,https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991124_lsd.m3u8?user_session_id=0ccb1800c52405270ef9d72385bcacd2&auth_key=1687046140-0-0-0ec1d48393f14f83d7b41b7928a5c3c3&edge_slice=true&sub_m3u8=true",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "EURO Qualification Grp. J Round 3"
