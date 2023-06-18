@@ -1,20 +1,6 @@
 {
     "hls":[
  
-
-{
-"id": "2266",
-"title": "Netherlands Vs Italy",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
-"time": "17.6.2023 (7:30 PM)",
-"url": "https://pull.juqihuo.com/live/stream-492306_lhd.flv?auth_key=1687114583-0-0-bfddee1519facd17e6a64cf0c314b3b3,https://pull.juqihuo.com/live/stream-492306_lsd.flv?auth_key=1687114583-0-0-96bedf26d5f3546b7244d3d090f5c743",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "UEFA Nations League A Championship Playoff"
-},
-
 {
 "id": "2266",
 "title": "Croatia Vs Spain",
@@ -28,32 +14,7 @@
 "league": "UEFA Nations League A Championship Final"
 },
 
-{
-"id": "2266",
-"title": "India Vs Lebanon",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5897_small.png",
-"time": "19.6.2023 (8:30 PM)",
-"url": "https://pull06.scstream.net/live/stream-991121_lhd.flv?auth_key=1687120780-0-0-48766f0aa40dc93e43a5b9bec744e8e7,https://pull06.scstream.net/live/stream-19949_lsd.flv?auth_key=1687120840-0-0-206cba9f4f33a01b36733ecd7749103b",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "Friendlies"
-},
 
-
-{
-"id": "2266",
-"title": "Paraguay Vs Nicaragua",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6724_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5807_small.png",
-"time": "18.6.2023 (9:00 PM)",
-"url": "https://pull06.scstream.net/live/stream-991135_lhd.flv?auth_key=1687120480-0-0-ae1449ccc643b8a6546bd1fb1ccf6516,https://pull06.scstream.net/live/stream-991135_lsd.flv?auth_key=1687120480-0-0-e5386f57d365681ccb27bc53b4f85bfb",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "Friendlies"
-},
 
 {
 "id": "2266",
