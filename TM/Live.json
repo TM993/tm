@@ -11,9 +11,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8495_small.png",
 "time": "19.6.2023 (10:30 PM)",
-"url": "https://pull.juqihuo.com/live/stream-308116_lhd.flv?auth_key=1687210583-0-0-96e478fc23c80747aebe270b3bad1441,https://pull.juqihuo.com/live/stream-551899_lsd.flv?auth_key=1687210643-0-0-35ae7110120670afec3f76e9e943b7bd",
+"url": "https://pull.juqihuo.com/live/stream-308116_lhd.flv?auth_key=1687210583-0-0-96e478fc23c80747aebe270b3bad1441,https://pull.juqihuo.com/live/stream-551899_lsd.flv?auth_key=1687210643-0-0-35ae7110120670afec3f76e9e943b7bd,https://pull01.rrwes.live/live/stream-113906_lsd.m3u8?txSecret=a3c79080eeae3b6b93e7f7e093c76ca2&txTime=6490cc9a,https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991124_lsd.m3u8?user_session_id=7604facd6cc8ef756ded53ae926abc5e&auth_key=1687193222-0-0-59c4734362ba19e5d9af0a1d13e7e8ad&edge_slice=true&sub_m3u8=true",
 "live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
+"type": "Premium Sever HD,Premium Sever SD,SD 1,SD 2",
 "premium":"true",
 "league": "EURO Qualification Grp. C Round 4"
 },
@@ -37,9 +37,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
 "time": "19.6.2023 (10:30 PM)",
-"url": "https://pull.juqihuo.com/live/stream-2961234_lhd.flv?auth_key=1687210283-0-0-a2cb0f3316b7590b05ed94eaa71a22d7,https://pull.juqihuo.com/live/stream-552917_lsd.flv?auth_key=1687210343-0-0-1c5fdaaf7096d607f36ae7dfb2ebbd42",
+"url": "https://pull.juqihuo.com/live/stream-2961234_lhd.flv?auth_key=1687210283-0-0-a2cb0f3316b7590b05ed94eaa71a22d7,https://pull.juqihuo.com/live/stream-552917_lsd.flv?auth_key=1687210343-0-0-1c5fdaaf7096d607f36ae7dfb2ebbd42,https://pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1687192982-0-0-cbea5610eb850afef3cf619d2c9b2f4a,https://pull.juqihuo.com/live/stream-2961234_lsd.flv?auth_key=1687211063-0-0-1c87d59faa84fe23a0176cce434c1667",
 "live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
+"type": "Premium Sever HD,Premium Sever SD,SD 1,SD 2",
 "premium":"true",
 "league": "EURO Qualification Grp. H Round 4"
 },
