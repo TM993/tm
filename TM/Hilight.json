@@ -3,73 +3,33 @@
 
 {
 "id": "2266",
-"title": "Gibraltar Vs France",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/507764.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
-"time": "17.6.2023 (1:15 AM)",
-"url": "https://unrf.topravideo.com/UpFiles/2023/6/16/42/257567/360p.m3u8",
-"go1": "0",
-"go2": "3",
-"type": "1",
-"premium":"true",
-"league": "International EURO"
-},
-  
-{
-"id": "2266",
-"title": "Greece Vs Ireland",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
-"time": "17.6.2023 (1:15 AM)",
-"url": "https://unrf.topravideo.com/UpFiles/2023/6/16/42/257572/360p.m3u8",
-"go1": "2",
-"go2": "1",
-"type": "1",
-"premium":"true",
-"league": "International EURO"
-},
-  
-{
-"id": "2266",
-"title": "Malta Vs England",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8495.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-"time": "17.6.2023 (1:15 AM)",
-"url": "https://unrf.topravideo.com/UpFiles/2023/6/16/42/257571/360p.m3u8",
-"go1": "0",
-"go2": "4",
-"type": "1",
-"premium":"true",
-"league": "International EURO"
-},
-  
-{
-"id": "2266",
-"title": "North Macedonia Vs Ukraine",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8260.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6718.png",
-"time": "17.6.2023 (1:15 AM)",
-"url": "https://unrf.topravideo.com/UpFiles/2023/6/16/42/257588/360p.m3u8",
+"title": "Netherlands Vs Italy",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
+"time": "18.6.2023 (7:30 PM)",
+"url": "https://unrf.topravideo.com/UpFiles/2023/6/18/42/257745/360p.m3u8",
 "go1": "2",
 "go2": "3",
 "type": "1",
 "premium":"true",
-"league": "International EURO"
+"league": "UEFA Nations League A"
 },
   
 {
 "id": "2266",
-"title": "Wales Vs Armenia",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
-"time": "17.6.2023 (1:15 AM)",
-"url": "https://unrf.topravideo.com/UpFiles/2023/6/16/42/257575/0.m3u8",
-"go1": "2",
-"go2": "4",
+"title": "Croatia Vs Spain",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
+"time": "19.6.2023 (1:15 AM)",
+"url": "https://unrf.topravideo.com/UpFiles/2023/6/18/42/257790/360p.m3u8",
+"go1": "0",
+"go2": "0",
 "type": "1",
 "premium":"true",
-"league": "International EURO"
+"league": "UEFA Nations League A"
 }
+  
+
 
 
 
