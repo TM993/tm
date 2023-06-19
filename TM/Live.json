@@ -46,25 +46,12 @@
 
 {
 "id": "2266",
-"title": "Finland Vs San Marino",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
-"time": "19.6.2023 (10:30 PM)",
-"url": "",
-"live":"0",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "EURO Qualification Grp. H Round 4"
-},
-
-{
-"id": "2266",
 "title": "Indonesia Vs Argentina",
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
 "time": "19.6.2023 (10:30 PM)",
-"url": "",
-"live":"0",
+"url": "https://pull.juqihuo.com/live/stream-492306_lhd.flv?auth_key=1687199003-0-0-1a305f6c13e7ecb125c52683705b3165,https://pull.juqihuo.com/live/stream-492306_lsd.flv?auth_key=1687199363-0-0-c4f610214b36583f1bfc622dc9665bb0",
+"live":"1",
 "type": "Premium Sever HD,Premium Sever SD",
 "premium":"true",
 "league": "Friendlies"
