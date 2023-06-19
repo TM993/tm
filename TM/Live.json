@@ -1,58 +1,15 @@
 {
     "hls":[
- 
-
-
-
-
-{
-"id": "2266",
-"title": "Ukraine Vs Malta",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8495_small.png",
-"time": "19.6.2023 (10:30 PM)",
-"url": "https://pull.juqihuo.com/live/stream-308116_lhd.flv?auth_key=1687210583-0-0-96e478fc23c80747aebe270b3bad1441,https://pull.juqihuo.com/live/stream-551899_lsd.flv?auth_key=1687210643-0-0-35ae7110120670afec3f76e9e943b7bd,https://pull01.rrwes.live/live/stream-113906_lsd.m3u8?txSecret=a3c79080eeae3b6b93e7f7e093c76ca2&txTime=6490cc9a,https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991124_lsd.m3u8?user_session_id=7604facd6cc8ef756ded53ae926abc5e&auth_key=1687193222-0-0-59c4734362ba19e5d9af0a1d13e7e8ad&edge_slice=true&sub_m3u8=true",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD,SD 1,SD 2",
-"premium":"true",
-"league": "EURO Qualification Grp. C Round 4"
-},
-
-{
-"id": "2266",
-"title": "Armenia Vs Latvia",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
-"time": "19.6.2023 (10:30 PM)",
-"url": "https://pull.juqihuo.com/live/stream-492306_lsd.flv?auth_key=1687214183-0-0-59164f25d884cadf8a52e086fdd8a4fb,https://pull.juqihuo.com/live/stream-1345860_lsd.flv?auth_key=1687214543-0-0-dafe45270bd15160ad7cc7d5b65b26c2,https://pull.juqihuo.com/live/stream-551866_lsd.flv?auth_key=1687214603-0-0-79ee98331114f638dc30c8b1144d1a37",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD",
-"premium":"true",
-"league": "EURO Qualification Grp. D Round 4"
-},
-
-{
-"id": "2266",
-"title": "Finland Vs San Marino",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
-"time": "19.6.2023 (10:30 PM)",
-"url": "https://pull.juqihuo.com/live/stream-2961234_lhd.flv?auth_key=1687210283-0-0-a2cb0f3316b7590b05ed94eaa71a22d7,https://pull.juqihuo.com/live/stream-552917_lsd.flv?auth_key=1687210343-0-0-1c5fdaaf7096d607f36ae7dfb2ebbd42,https://pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1687192982-0-0-cbea5610eb850afef3cf619d2c9b2f4a,https://pull.juqihuo.com/live/stream-2961234_lsd.flv?auth_key=1687211063-0-0-1c87d59faa84fe23a0176cce434c1667",
-"live":"1",
-"type": "Premium Sever HD,Premium Sever SD,SD 1,SD 2",
-"premium":"true",
-"league": "EURO Qualification Grp. H Round 4"
-},
-        
+         
 {
 "id": "2266",
 "title": "France Vs Greece",
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6383_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-658659_lhd.flv?auth_key=1687220063-0-0-f98201d9c44106e1bfb6bd3e7b6635c5,https://pull.juqihuo.com/live/stream-658659_lsd.flv?auth_key=1687220063-0-0-2e96eb7cd1c15077614dbfec856f7270,https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1687220843-0-0-25deb76ec379b24868eff679f2fffdb2,https://pull.juqihuo.com/live/stream-492306_lsd.flv?auth_key=1687220843-0-0-f48973a10c488821a2f333bcc4121cac",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/727.ts",
 "live":"1",
-"type": "Premium Sever HD,Premium Sever SD,SD 1,SD 2",
+"type": "Premium Sever HD",
 "premium":"true",
 "league": "EURO Qualification Grp. B Round 4"
 },
@@ -63,9 +20,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/5791_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/507764_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-516701_lhd.flv?auth_key=1687220903-0-0-246eb5b9c72a1251100f09c1a65b98bf,https://pull.juqihuo.com/live/stream-516701_lsd.flv?auth_key=1687220903-0-0-757a30441b14f52bb1f20149b97fdde5",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/728.ts",
 "live":"1",
-"type": "HD,SD,SD 1,SD 2",
+"type": "HD",
 "premium":"true",
 "league": "EURO Qualification Grp. B Round 4"
 },
@@ -76,9 +33,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8260_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-551866_lhd.flv?auth_key=1687220123-0-0-0ef947a97f3e921db77c9d54b394b988,https://pull.juqihuo.com/live/stream-551866_lsd.flv?auth_key=1687220123-0-0-3232707f22669b9c7fbdc32ce1a2badb,https://pull.juqihuo.com/live/stream-531165_lsd.flv?auth_key=1687220963-0-0-1c57674994f6db61b7e2712f89245ab2,https://pull.juqihuo.com/live/stream-601468_lsd.flv?auth_key=1687221143-0-0-7ee086d09a2813835f882e5736ac850b",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/729.ts",
 "live":"1",
-"type": "HD,SD,SD 1,SD 2",
+"type": "HD",
 "premium":"true",
 "league": "EURO Qualification Grp. C Round 4"
 },
@@ -89,9 +46,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-466384_lhd.flv?auth_key=1687220183-0-0-b524885159072aca57ed3de15ea9d091,https://pull.juqihuo.com/live/stream-466384_lsd.flv?auth_key=1687220183-0-0-88f2a1adf907893708a533a8d344adcd,https://pull.juqihuo.com/live/stream-466384_lsd.flv?auth_key=1687221203-0-0-4d210cb0696e5b156089795218253416,https://pull.juqihuo.com/live/stream-772920_lsd.flv?auth_key=1687221263-0-0-918e3e0bb043c0290560f663a15fec9d",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/731.ts",
 "live":"1",
-"type": "HD,SD,SD 1,SD 2",
+"type": "HD",
 "premium":"true",
 "league": "EURO Qualification Grp. D Round 4"
 },
@@ -102,9 +59,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-362353_lhd.flv?auth_key=1687220363-0-0-d4e1d3296ca1fa8d323093962b2fca2a,https://pull.juqihuo.com/live/stream-362353_lsd.flv?auth_key=1687220363-0-0-a83da4d3fc7b8f8fd7754016fe115109",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/732.ts",
 "live":"1",
-"type": "HD,SD,SD 1,SD 2",
+"type": "HD",
 "premium":"true",
 "league": "EURO Qualification Grp. H Round 4"
 },
@@ -115,9 +72,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-772803_lhd.flv?auth_key=1687221503-0-0-eb921389e6ed6a9f7a181e23a1179af2,https://pull.juqihuo.com/live/stream-772803_lsd.flv?auth_key=1687221503-0-0-4e8a93bb7e0413fccc77aba133adc570,https://pull.juqihuo.com/live/stream-716626_lhd.flv?auth_key=1687221563-0-0-f40159d7d3146994f89c28342653e0f1,https://pull.juqihuo.com/live/stream-716626_lsd.flv?auth_key=1687221563-0-0-8b1bdf2f3c15a164126324ddae7fc489",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/733.ts",
 "live":"1",
-"type": "HD,SD,SD 1,SD 2",
+"type": "HD",
 "premium":"true",
 "league": "EURO Qualification Grp. H Round 4"
 },
@@ -128,9 +85,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10057_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/430156_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-669312_lhd.flv?auth_key=1687220543-0-0-3e73548c1e65a77b6152b52d4e42cbed,https://pull.juqihuo.com/live/stream-669312_lsd.flv?auth_key=1687220543-0-0-a6dfbd932f3504d302c38cceea6cc053",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/734.ts",
 "live":"1",
-"type": "HD,SD,SD 1,SD 2",
+"type": "HD",
 "premium":"true",
 "league": "EURO Qualification Grp. I Round 4"
 },
@@ -141,9 +98,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8567_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10045_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-799271_lhd.flv?auth_key=1687220603-0-0-b418b2fdebd730a0a39636a3e716726b,https://pull.juqihuo.com/live/stream-799271_lsd.flv?auth_key=1687220603-0-0-631fbd864125c54eeb87c24441c617ed",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/736.ts",
 "live":"1",
-"type": "HD,SD,SD 1,SD 2",
+"type": "HD",
 "premium":"true",
 "league": "EURO Qualification Grp. I Round 4"
 },
@@ -154,9 +111,9 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/9730_small.png",
 "time": "20.6.2023 (1:15 AM)",
-"url": "https://pull.juqihuo.com/live/stream-112366_lhd.flv?auth_key=1687220663-0-0-e344db5969a87d2039423d7c0c0223aa,https://pull.juqihuo.com/live/stream-112366_lsd.flv?auth_key=1687220663-0-0-a0210c9b54b875fdb63de2675a4b6c34,https://pull.juqihuo.com/live/stream-238362_lhd.flv?auth_key=1687220723-0-0-f464147c754731037127dc9b48d286c1,https://pull.juqihuo.com/live/stream-238362_lsd.flv?auth_key=1687220723-0-0-8e903b8e84c6b7b457b9734e7377bec8",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/737.ts",
 "live":"1",
-"type": "HD,SD,SD 1,SD 2",
+"type": "HD",
 "premium":"true",
 "league": "EURO Qualification Grp. I Round 4"
 }
