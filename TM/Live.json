@@ -2,31 +2,6 @@
     "hls":[
          
 
-{
-"id": "2266",
-"title": "Uzbekistan Vs Iran",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8700.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6711.png",
-"time": "20.6.2023 (10:00 PM)",
-"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/884.ts",
-"live":"1",
-"type": "Premium Sever HD",
-"premium":"true",
-"league": "Friendlies"
-},
-
-{
-"id": "2266",
-"title": "Montenegro Vs Czechia",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/49437.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
-"time": "20.6.2023 (10:30 PM)",
-"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/886.ts",
-"live":"1",
-"type": "Premium Sever HD",
-"premium":"true",
-"league": "Friendlies"
-},
 
 {
 "id": "2266",
@@ -34,8 +9,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/888.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -47,8 +22,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8268.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/890.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -60,8 +35,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8269.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/10024.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/892.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -73,8 +48,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/5794.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8568.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/893.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -86,8 +61,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/895.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -99,8 +74,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8261.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/897.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -112,8 +87,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10150.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8205.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/899.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -125,8 +100,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8565.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8254.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/901.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -138,8 +113,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5792.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/902.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -151,21 +126,8 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8536.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
-"type": "Premium Sever HD",
-"premium":"true",
-"league": "International Euro"
-},
-
-{
-"id": "2266",
-"title": "Liechtenstein Vs Slovakia",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png",
-"time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/904.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "International Euro"
@@ -177,25 +139,12 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
 "time": "21.6.2023 (1:15 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/908.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "Friendlies"
 },   
-
-{
-"id": "2266",
-"title": "Algeria Vs Tunisia",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
-"time": "21.6.2023 (1:30 AM)",
-"url": "",
-"live":"0",
-"type": "Premium Sever HD",
-"premium":"true",
-"league": "Friendlies"
-},
 
 {
 "id": "2266",
@@ -203,12 +152,12 @@
 "img": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
 "img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
 "time": "21.6.2023 (1:30 AM)",
-"url": "",
-"live":"0",
+"url": "http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/914.ts",
+"live":"1",
 "type": "Premium Sever HD",
 "premium":"true",
 "league": "Friendlies"
-},   
+}   
 
 
 
