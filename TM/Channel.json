@@ -81,7 +81,7 @@
     
       "image":"https://i.goalzz.com/?i=o%2Fh%2F1%2F206%2Fbein-sports-hd-1.png",
     
-      "link":"https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/159.ts",
                         
        "premium":"true"
     
@@ -126,46 +126,6 @@
        "premium":"true"
     
     },
-        
-        
-     {
-      "name":"SONY AATH",
-      
-      "catagory":"movie",
-    
-      "image":"http://www.indianbroadcastingworld.com/wp-content/uploads/2022/12/Sony-AAth.jpg",
-    
-      "link":"https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8",
-                
-       "premium":"true"
-    
-    },
-    
-    {
-      "name":"SONY Marathi",
-      
-      "catagory":"other",
-    
-      "image":"https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_webp/https://www.bizasialive.com/wp-content/uploads/2018/07/sonymarathi001.jpg",
-    
-      "link":"https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8",
-                
-       "premium":"true"
-    
-    },
-    
-    {
-      "name":"SONY YAY",
-      
-      "catagory":"cartoon",
-    
-      "image":"https://www.bizasialive.com/wp-content/uploads/2017/04/sonyyay001.jpg",
-    
-      "link":"https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8",
-                
-       "premium":"true"
-    
-    },
     
         
   {
@@ -175,27 +135,13 @@
     
       "image":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Channel_ME_Logo.jpg/220px-Channel_ME_Logo.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/81.m3u8",
-                
-       "premium":"false"
-    
-    },
-   
-        
-         {
-      "name":"Channel 9",
-    
-      "catagory":"mm",
-    
-      "image":"https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/78.m3u8",
+      "link":"http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSCb4RbUZi5Ifqd_4yUMA7U/ts",
                 
        "premium":"false"
     
     },
         
-        {
+{
       "name":"MNTV",
     
       "catagory":"mm",
@@ -228,51 +174,26 @@
     
       "image":"https://static.wikia.nocookie.net/logopedia/images/2/2c/YTV_myanmar.png/revision/latest?cb=20191211065311",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/83.m3u8",
+      "link":"http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJczn6oBZ4_n_h5sKiO3JX6A/ts",
                 
        "premium":"false"
     
     },
         
-{
-      "name":"Channel K",
-    
-      "catagory":"mm",
-    
-      "image":"https://static.wikia.nocookie.net/logopedia/images/a/a8/ChannelK_Myanmar.png/revision/latest/scale-to-width-down/1200?cb=20191211065312",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/79.m3u8",
-                
-       "premium":"false"
-    
-    },
-        
-        {
+    {
       "name":"Mahar",
     
       "catagory":"mm",
     
       "image":"https://mm.myanmartechpress.com/wp-content/uploads/2019/07/2-12.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/77.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/132.ts",
                 
        "premium":"false"
     
     },
     
-   
-        {
-      "name":"Thai: ALTV (1080P)",
-    
-      "catagory":"asia",
-    
-      "image":"https://thaipbs-world.s3.ap-southeast-1.amazonaws.com/thaipbsworld/wp-content/uploads/2020/11/13191100/maxresdefault.jpg",
-    
-      "link":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
-                
-       "premium":"true"
-    
-    },
+
         {
       "name":"DIGI Sport 1",
     
@@ -280,7 +201,7 @@
     
       "image":"https://i.ibb.co/d5vXYQs/digi-sport-1.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/14.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/28.ts",
                 
        "premium":"true"
     
@@ -292,7 +213,7 @@
     
       "image":"https://i.ibb.co/56RLdMB/digi-Sport-2-copy.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/15.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/30.ts",
                 
        "premium":"true"
     
@@ -304,19 +225,7 @@
     
       "image":"https://i.ibb.co/PrD1xbf/digi-sport-3.jpg",
     
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7449",
-                
-       "premium":"true"
-    
-    },
-    {
-      "name":"DIGI Sport 4",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/WDnWpSM/digi-sport-4.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/17.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/31.ts",
                 
        "premium":"true"
     
@@ -331,7 +240,7 @@
     
       "image":"https://i.ibb.co/17ryxR5/canal-sport-1.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/20.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/48.ts",
                 
        "premium":"true"
     
@@ -344,7 +253,7 @@
     
       "image":"https://i.ibb.co/84KPXY6/canal-sport-2.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/21.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/49.ts",
                 
        "premium":"true"
     
@@ -358,7 +267,7 @@
     
       "image":"https://i.ibb.co/D8rJxG0/canal-sport-4.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/22.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/51.ts",
                 
        "premium":"true"
     
@@ -374,7 +283,7 @@
     
       "image":"https://i.ibb.co/Gs5SkJm/canal-sport-4-copy.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/23.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/53.ts",
                 
        "premium":"true"
     
@@ -388,7 +297,7 @@
     
       "image":"https://i.ibb.co/XsfwWyM/canal-sport-5.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/24.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/54.ts",
                 
        "premium":"true"
     
@@ -402,23 +311,11 @@
     
       "image":"https://i.ibb.co/Gd2smBq/supersport-action.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/63.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/630.ts",
                 
        "premium":"true"
      },
-
-{
-  "name":"SuperSport Blitz",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/H7zZ22D/Super-Sport-Blitz.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/64.m3u8",
-    
-            
-       "premium":"true"
-     },
+        
         
 {
   "name":"SuperSport Golf",
@@ -427,7 +324,7 @@
     
       "image":"https://i.ibb.co/74K3VM1/supersport-golf.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/28.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/634.ts",
             
        "premium":"true"
      },
@@ -439,69 +336,21 @@
     
       "image":"https://i.ibb.co/d2mF6mW/supersport-tennies.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/30.m3u8",
-            
-       "premium":"true"
-     },
-        
-{
-  "name":"SuperSport PSL",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/PjnXF15/supersport-psl.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/70.m3u8",
-            
-       "premium":"true"
-     },
-        
-{
-  "name":"SuperSport Maximo1",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/XDnj6P7/Super-Sport-Maximo-1.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/68.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/635.ts",
             
        "premium":"true"
      },
         
 
-    
-{
-  "name":"SuperSport Grandstand",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/x5kNkpg/super-grandtant.jpg",
-    
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9324",
-            
-       "premium":"true"
-     },      
-    
-{
-  "name":"SuperSport Premie League",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.ibb.co/RpmQYtF/super-sport-premier-league.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/69.m3u8",
-            
-       "premium":"true"
-     }, 
         
 {
-  "name":"SuperSport Variety 1",
+  "name":"Super Sport Variety 1",
     
       "catagory":"sport",
     
       "image":"https://i.ibb.co/cF84HPc/supersport-variety-1.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/71.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/625.ts",
             
        "premium":"true"
      },
@@ -513,7 +362,7 @@
     
       "image":"https://i.ibb.co/3CJC7G6/supersport-variety-2.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/72.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/627.ts",
             
        "premium":"true"
      },
@@ -525,76 +374,24 @@
     
       "image":"https://i.ibb.co/vsnH755/supersport-variety-3.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/73.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/628.ts",
             
        "premium":"true"
      },
         
 
-        
-        
-                {
+               
+{
   "name":"Cartoon Network",
     
       "catagory":"cartoon",
     
       "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/90.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/193.ts",
                         
        "premium":"true"
      },
-
-        
-{
-  "name":"Netflix kids 1",
-    
-      "catagory":"cartoon",
-    
-      "image":"https://i.postimg.cc/CM981SQ8/netflix-kids.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/91.m3u8",
-            
-       "premium":"true"
-     },
-
-     {
-  "name":"Netflix kids 2",
-    
-      "catagory":"cartoon",
-    
-      "image":"https://i.postimg.cc/CM981SQ8/netflix-kids.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/92.m3u8",
-        
-       "premium":"true"
-     },
-
-     {
-  "name":"Netflix kids 3",
-    
-      "catagory":"cartoon",
-    
-      "image":"https://i.postimg.cc/CM981SQ8/netflix-kids.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/93.m3u8",
-        
-       "premium":"true"
-     },
-
-
-     {
-  "name":"Netflix kids 6",
-    
-      "catagory":"cartoon",
-    
-      "image":"https://i.postimg.cc/CM981SQ8/netflix-kids.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/94.m3u8",
-        
-       "premium":"true"
-     },
-
 
 
 {
@@ -604,19 +401,20 @@
     
       "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",
     
-      "link":"http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16622",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/242.ts",
                                 
        "premium":"true"
      },
         
-        {
+        
+{
   "name":"Sony Ten 2",
     
       "catagory":"asia",
     
       "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/104.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/243.ts",
                     
        "premium":"true"
      },
@@ -628,158 +426,11 @@
     
       "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/105.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/244.ts",
             
        "premium":"true"
      },
         
-        
-{
-  "name":"Sony Ten 4",
-    
-      "catagory":"asia",
-    
-      "image":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/108.m3u8",
-            
-       "premium":"true"
-     },
-        
-{
-  "name":"Sony Ten 5",
-    
-      "catagory":"asia",
-    
-      "image":"https://medianet.mv/media/channel/235x0-icon.png",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/109.m3u8",
-            
-       "premium":"true"
-     },
-        
-    
-
-
-     {
-  "name":"Sky Sports 1",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/qRtfyr88/sky-sport-1.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/36.m3u8",
-        
-       "premium":"true"
-     },
-
-
-
-
-
-     {
-  "name":"Sky Sports 2",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/d1gb9fBg/sky-sport-2.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/37.m3u8",
-        
-       "premium":"true"
-     },
-
-     {
-  "name":"Sky Sport 3",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/BbDd7C7b/sky-sport-3.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/38.m3u8",
-        
-       "premium":"true"
-     },
-
-
-{
-  "name":"Sky Sport 4",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/tC3Kh2Vm/sky-sport-4.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/39.m3u8",
-        
-       "premium":"true"
-     },
-
-
-
-     {
-  "name":"Sky Sport 5",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/NGHq0gGt/sky-sport-5.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/40.m3u8",
-        
-       "premium":"true"
-     },
-
-
-{
-  "name":"Sky Sport 6",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/SNb02wjM/sky-sport-6.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/41.m3u8",
-        
-       "premium":"true"
-     },
-
-
-
-     {
-  "name":"Sky Sport 7",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/pLk3SrCf/sky-sport-7.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/42.m3u8",
-        
-       "premium":"true"
-     },
-     
-
-
-     {
-  "name":"SKY Sport 8",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/sg3tK7Yf/sky-sport-8.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/43.m3u8",
-        
-       "premium":"true"
-     },
-
-     {
-  "name":"SKY Sport 9",
-    
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/4xhJkzK6/skysport-9.jpg",
-    
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/44.m3u8",
-        
-       "premium":"true"
-     },
 
      {
   "name":" Arena Premium 1",
@@ -788,7 +439,7 @@
     
       "image":"https://i.postimg.cc/ncc1R2WW/Arena-Premium-1.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/49.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/58.ts",
         
        "premium":"true"
      },
@@ -801,7 +452,7 @@
     
       "image":"https://i.postimg.cc/rFnNvWXw/Arena-Premium-2.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/50.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/60.ts",
         
        "premium":"true"
      },
@@ -814,7 +465,7 @@
     
       "image":"https://i.postimg.cc/LsZDksW6/Arena-Premium-3.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/51.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/61.ts",
         
        "premium":"true"
      },
@@ -828,7 +479,7 @@
     
       "image":"https://i.postimg.cc/C1TNcgyC/Arena-sport-1.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/52.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/62.ts",
         
        "premium":"true"
      },
@@ -842,7 +493,7 @@
     
       "image":"https://i.postimg.cc/9MdBSnV6/Arena-Sport-2.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/53.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/63.ts",
         
        "premium":"true"
      },
@@ -856,7 +507,7 @@
     
       "image":"https://i.postimg.cc/D07cKPw8/Arena-Sport-3.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/54.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/64.ts",
         
        "premium":"true"
      },
@@ -869,7 +520,7 @@
     
       "image":"https://i.postimg.cc/rsgNyRDg/Arena-Sport-4.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/55.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/66.ts",
         
        "premium":"true"
      },
@@ -883,7 +534,7 @@
     
       "image":"https://i.postimg.cc/v8vztk09/Arena-Sport-5.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/56.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/68.ts",
         
        "premium":"true"
      },
