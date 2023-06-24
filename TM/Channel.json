@@ -129,30 +129,46 @@
     
         
   {
-      "name":"Channel Me",
+      "name":"MRTV 4",
     
       "catagory":"mm",
     
-      "image":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Channel_ME_Logo.jpg/220px-Channel_ME_Logo.jpg",
+      "image":"https://3.bp.blogspot.com/-RoB7lqOmK4I/VNqnaUDUrkI/AAAAAAAAAS4/Nwy0nbmWtow/s1600/MRTV-4-thailand.png",
     
-      "link":"http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSCb4RbUZi5Ifqd_4yUMA7U/ts",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/129.ts",
                 
        "premium":"false"
     
     },
         
 {
-      "name":"MNTV",
+      "name":"Channel 7",
     
       "catagory":"mm",
     
-      "image":"https://upload.wikimedia.org/wikipedia/en/5/54/Myanmar_National_TV_Logo.jpg",
+      "image":"https://photos.live-tv-channels.org/tv-logo/mm-channel-7-1023.jpg",
     
-      "link":"http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJSOTDQjKZ1VJfUrVGZt6mDA/ts",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/130.ts",
                 
        "premium":"false"
     
     },
+
+
+        {
+      "name":"5 Plus",
+    
+      "catagory":"mm",
+    
+      "image":"https://img2.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/131.ts",
+                
+       "premium":"false"
+    
+    },
+
+        
         
 {
       "name":"Fortune Tv",
@@ -206,6 +222,8 @@
        "premium":"true"
     
     },
+
+        
         {
       "name":"DIGI Sport 2",
     
@@ -218,6 +236,8 @@
        "premium":"true"
     
     },
+
+        
     {
       "name":"DIGI Sport 3",
     
@@ -246,6 +266,8 @@
     
     },
 
+        
+
     {
       "name":" Canal+ Sport 2",
     
@@ -258,6 +280,7 @@
        "premium":"true"
     
     },
+        
 
 
     {
