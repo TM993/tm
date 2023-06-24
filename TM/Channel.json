@@ -570,25 +570,13 @@
     
       "image":"https://i.postimg.cc/mkqwvL1q/wwe.jpg",
     
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7315",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/188.ts",
                         
        "premium":"true"
     
     },
 
-    {
-      "name":"Fighter Network",
     
-      "catagory":"sport",
-    
-      "image":"https://i.postimg.cc/SNtT3zXg/Fighter-Network.jpg",
-    
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/270",
-                        
-       "premium":"true"
-    
-    },
-
 
     {
       "name":"Polsat Sport FIGHT",
@@ -597,7 +585,7 @@
     
       "image":"https://i.postimg.cc/hv0FV4MH/Polsat-Sport-FIGHT.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/46.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/191.ts",
                         
        "premium":"true"
     
@@ -610,28 +598,12 @@
     
       "image":"https://i.postimg.cc/T3W6z8z9/zee-bollywood.jpg",
     
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/11895",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/249.ts",
                         
        "premium":"true"
     
     },
 
-
-
-
-
-    {
-      "name":"Zee Cinema Asia",
-    
-      "catagory":"movie",
-    
-      "image":"https://i.postimg.cc/PqWkqWrv/zee-magic.jpg",
-    
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/11992",
-                        
-       "premium":"true"
-    
-    },
 
 
     {
@@ -641,21 +613,7 @@
     
       "image":"https://i.postimg.cc/vBGwx4cq/zee-tv.jpg",
     
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/7560",
-                        
-       "premium":"true"
-    
-    },
-
-
-    {
-      "name":"Zee World",
-    
-      "catagory":"movie",
-    
-      "image":"https://i.postimg.cc/nLbJZRZt/zee-world.jpg",
-    
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/9074",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/247.ts",
                         
        "premium":"true"
     
@@ -670,11 +628,26 @@
     
       "image":"https://i.postimg.cc/N07b0c5Y/bbc-news.jpg",
     
-      "link":"http://tv.devtv.nl:80/Digital-marketing/dxDGq9B/73",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/460.ts",
                         
        "premium":"true"
     
     },
+
+
+        {
+      "name":"BBC World News",
+    
+      "catagory":"other",
+    
+      "image":"https://i.postimg.cc/N07b0c5Y/bbc-news.jpg",
+    
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/469.ts",
+                        
+       "premium":"true"
+    
+    },
+        
 
 
     {
@@ -684,7 +657,7 @@
     
       "image":"https://i.postimg.cc/Qd70R5DF/ANIMAL-PLANET.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/88.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/251.ts",
                         
        "premium":"true"
     
@@ -698,7 +671,7 @@
     
       "image":"https://i.postimg.cc/TPXCGw2C/Discovery-Channels.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/86.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/137.ts",
                         
        "premium":"true"
     
@@ -712,7 +685,7 @@
     
       "image":"https://i.postimg.cc/PxXypRwD/fashion-tv.jpg",
     
-      "link":"http://104.149.138.81:25461/live/thstzm/thstzm/89.m3u8",
+      "link":"http://62.210.204.79:80/live/51291FD1CF97B2E48BC794FA51C3E281/250.ts",
                         
        "premium":"true"
     
