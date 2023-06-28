@@ -5,15 +5,28 @@
 
 {
 "id": "2266",
-"title": "Norway Vs Cyprus",
-"img": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
-"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
-"time": "21.6.2023 (1:15 AM)",
+"title": "Israel U21 Vs Czechia U21",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/5828.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/5833.png",
+"time": "28.6.2023 (10:30 PM)",
 "url": "",
 "live":"0",
-"type": "Premium Sever HD",
+"type": "HD,SD,HD 1,SD 1",
 "premium":"true",
-"league": "International Euro"
+"league": "EURO U21"
+},
+
+{
+"id": "2266",
+"title": "England U21 Vs Germany U21",
+"img": "https://images.fotmob.com/image_resources/logo/teamlogo/5846.png",
+"img1": "https://images.fotmob.com/image_resources/logo/teamlogo/6638.png",
+"time": "28.6.2023 (10:30 PM)",
+"url": "",
+"live":"0",
+"type": "HD,SD,HD 1,SD 1",
+"premium":"true",
+"league": "EURO U21"
 }
 
 
